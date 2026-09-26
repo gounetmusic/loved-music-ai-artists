@@ -1,0 +1,39 @@
+name: Sync from loved.music
+
+on:
+  schedule:
+    - cron: "17 5 * * *" # daily, 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch the list and rebuild the files
+        run: node scripts/sync.mjs
+
+      - name: Commit when the list changed
+        run: |
+          git add ai-artists.json ai-artists.csv README.md
+          if git diff --cached --quiet; then
+            echo "No change."
+            exit 0
+          fi
+          count=$(( $(wc -l < ai-artists.csv) - 1 ))
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync from loved.music: ${count} artists"
+          git push
