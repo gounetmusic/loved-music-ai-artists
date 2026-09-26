@@ -2,7 +2,7 @@
 
 Spotify artists that the [loved.music](https://loved.music) team (Vernon) reviewed by hand and identified as AI-generated projects, aka AI slop.
 
-**<!-- count -->0<!-- /count --> artists**, identified by Spotify artist id. Updated daily from [loved.music/ai-artists.json](https://loved.music/ai-artists.json).
+**<!-- count -->80<!-- /count --> artists**, identified by Spotify artist id. Updated daily from [loved.music/ai-artists.json](https://loved.music/ai-artists.json).
 
 ## Files
 
