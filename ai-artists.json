@@ -4,8 +4,33 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each verified manually by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 80,
+  "count": 99,
   "artists": [
+    {
+      "name": "7 Lives",
+      "spotify": {
+        "artistId": "3NXzI2w1F6yYv0xpSxG7dL",
+        "artistUri": "spotify:artist:3NXzI2w1F6yYv0xpSxG7dL",
+        "artistUrl": "https://open.spotify.com/artist/3NXzI2w1F6yYv0xpSxG7dL"
+      },
+      "verifiedAt": "2026-09-26T13:33:54.396Z",
+      "tracks": [
+        {
+          "title": "Essence",
+          "isrc": "DE1QW2666336",
+          "releaseDate": "2026-09-11",
+          "popularity": 12,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e432dd66104361789e639ab7",
+          "spotify": {
+            "trackUri": "spotify:track:6EgYj4l8wQP3zDbtShgC2y",
+            "trackUrl": "https://open.spotify.com/track/6EgYj4l8wQP3zDbtShgC2y",
+            "albumUri": "spotify:album:1cS6fi8vRUyG5oGUHfR4L4",
+            "albumUrl": "https://open.spotify.com/album/1cS6fi8vRUyG5oGUHfR4L4",
+            "albumName": "Essence"
+          }
+        }
+      ]
+    },
     {
       "name": "ABRIL",
       "spotify": {
@@ -41,6 +66,31 @@
             "albumUri": "spotify:album:06f1IjkkEk3yTdmlYlYx5h",
             "albumUrl": "https://open.spotify.com/album/06f1IjkkEk3yTdmlYlYx5h",
             "albumName": "MANZANAS DE NEÓN"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anne Bloom",
+      "spotify": {
+        "artistId": "4IdKBDrSY8tmG6bp5m9oog",
+        "artistUri": "spotify:artist:4IdKBDrSY8tmG6bp5m9oog",
+        "artistUrl": "https://open.spotify.com/artist/4IdKBDrSY8tmG6bp5m9oog"
+      },
+      "verifiedAt": "2026-09-27T07:25:34.517Z",
+      "tracks": [
+        {
+          "title": "Twilight of the Shadow Goddess",
+          "isrc": "GXLEY2683433",
+          "releaseDate": "2026-09-05",
+          "popularity": 15,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732c804190fa433cd46df20200",
+          "spotify": {
+            "trackUri": "spotify:track:3ussxgW9JxSBM4vuKxY1N5",
+            "trackUrl": "https://open.spotify.com/track/3ussxgW9JxSBM4vuKxY1N5",
+            "albumUri": "spotify:album:0tourqVVAOyOm0NlLCfUt7",
+            "albumUrl": "https://open.spotify.com/album/0tourqVVAOyOm0NlLCfUt7",
+            "albumName": "Twilight of the Shadow Goddess"
           }
         }
       ]
@@ -185,6 +235,59 @@
       ]
     },
     {
+      "name": "Benetti House Bar",
+      "spotify": {
+        "artistId": "2g3XoKBDF3xPN5S68Rl0gR",
+        "artistUri": "spotify:artist:2g3XoKBDF3xPN5S68Rl0gR",
+        "artistUrl": "https://open.spotify.com/artist/2g3XoKBDF3xPN5S68Rl0gR"
+      },
+      "verifiedAt": "2026-09-27T09:21:55.092Z",
+      "tracks": [
+        {
+          "title": "Sip Continuum - Sgroppino Edit",
+          "isrc": "QT6HP2652722",
+          "releaseDate": "2026-08-20",
+          "popularity": 20,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a8c185d5a440792981fb67eb",
+          "spotify": {
+            "trackUri": "spotify:track:5fp04KRHzRIPfOrtmvrJcb",
+            "trackUrl": "https://open.spotify.com/track/5fp04KRHzRIPfOrtmvrJcb",
+            "albumUri": "spotify:album:5cfmaM0f5lZNN9GifU5PAv",
+            "albumUrl": "https://open.spotify.com/album/5cfmaM0f5lZNN9GifU5PAv",
+            "albumName": "Sgroppino Afterglow | Prosecco Deep House 2026 | Italian Summer Nights"
+          }
+        },
+        {
+          "title": "Smoke & Maraschino",
+          "isrc": "QT6HP2652717",
+          "releaseDate": "2026-08-20",
+          "popularity": 23,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a8c185d5a440792981fb67eb",
+          "spotify": {
+            "trackUri": "spotify:track:0VijYV4GAsWj5ICdnbq83X",
+            "trackUrl": "https://open.spotify.com/track/0VijYV4GAsWj5ICdnbq83X",
+            "albumUri": "spotify:album:5cfmaM0f5lZNN9GifU5PAv",
+            "albumUrl": "https://open.spotify.com/album/5cfmaM0f5lZNN9GifU5PAv",
+            "albumName": "Sgroppino Afterglow | Prosecco Deep House 2026 | Italian Summer Nights"
+          }
+        },
+        {
+          "title": "Summer on the Side - Bossa Lounge Edit",
+          "isrc": "QT6HP2652725",
+          "releaseDate": "2026-08-20",
+          "popularity": 20,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a8c185d5a440792981fb67eb",
+          "spotify": {
+            "trackUri": "spotify:track:65bHltdUIHiRmoGJoiJi1k",
+            "trackUrl": "https://open.spotify.com/track/65bHltdUIHiRmoGJoiJi1k",
+            "albumUri": "spotify:album:5cfmaM0f5lZNN9GifU5PAv",
+            "albumUrl": "https://open.spotify.com/album/5cfmaM0f5lZNN9GifU5PAv",
+            "albumName": "Sgroppino Afterglow | Prosecco Deep House 2026 | Italian Summer Nights"
+          }
+        }
+      ]
+    },
+    {
       "name": "Buster Blanco",
       "spotify": {
         "artistId": "7iTzwiGI1gfS7uCUbLxkdj",
@@ -230,6 +333,31 @@
             "albumUri": "spotify:album:525IcBFMItJ0gDfJB0lnMz",
             "albumUrl": "https://open.spotify.com/album/525IcBFMItJ0gDfJB0lnMz",
             "albumName": "Tangled Symphony in Concrete"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Diego Torres dj",
+      "spotify": {
+        "artistId": "3JwrCOoe4hYpyjECKJIHEI",
+        "artistUri": "spotify:artist:3JwrCOoe4hYpyjECKJIHEI",
+        "artistUrl": "https://open.spotify.com/artist/3JwrCOoe4hYpyjECKJIHEI"
+      },
+      "verifiedAt": "2026-09-26T13:26:36.455Z",
+      "tracks": [
+        {
+          "title": "Obsidian Pulse 6",
+          "isrc": "QT6J52684067",
+          "releaseDate": "2026-09-11",
+          "popularity": 17,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273aa6f0888a38e2eb79b4bff3c",
+          "spotify": {
+            "trackUri": "spotify:track:6r4g8vdMBb2HLTuR7jvfgb",
+            "trackUrl": "https://open.spotify.com/track/6r4g8vdMBb2HLTuR7jvfgb",
+            "albumUri": "spotify:album:7zyxVEcr1NN4CYgLm2EVMB",
+            "albumUrl": "https://open.spotify.com/album/7zyxVEcr1NN4CYgLm2EVMB",
+            "albumName": "Obsidian Pulse"
           }
         }
       ]
@@ -424,6 +552,31 @@
       ]
     },
     {
+      "name": "FiruX",
+      "spotify": {
+        "artistId": "65a72qjza7Q0wkxK0xxgzz",
+        "artistUri": "spotify:artist:65a72qjza7Q0wkxK0xxgzz",
+        "artistUrl": "https://open.spotify.com/artist/65a72qjza7Q0wkxK0xxgzz"
+      },
+      "verifiedAt": "2026-09-27T06:44:48.548Z",
+      "tracks": [
+        {
+          "title": "Firu Prendio",
+          "isrc": "QT6J32684571",
+          "releaseDate": "2026-09-05",
+          "popularity": 23,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ec0c14942931d39f7289e588",
+          "spotify": {
+            "trackUri": "spotify:track:7h5ALO7tqUncp6wi8tU5Ww",
+            "trackUrl": "https://open.spotify.com/track/7h5ALO7tqUncp6wi8tU5Ww",
+            "albumUri": "spotify:album:3fZzotC0XvIgdmBcMoHa6u",
+            "albumUrl": "https://open.spotify.com/album/3fZzotC0XvIgdmBcMoHa6u",
+            "albumName": "Firu Prendio"
+          }
+        }
+      ]
+    },
+    {
       "name": "GabriPhiloHouseGroove",
       "spotify": {
         "artistId": "0kJTs2qPMjXfTdseNMZUkh",
@@ -544,6 +697,31 @@
             "albumUri": "spotify:album:0ZtVjJtL8SL9kDB76YaOGO",
             "albumUrl": "https://open.spotify.com/album/0ZtVjJtL8SL9kDB76YaOGO",
             "albumName": "Run To The Horizon"
+          }
+        }
+      ]
+    },
+    {
+      "name": "HamilZ",
+      "spotify": {
+        "artistId": "4G2IYsDBu9Y5svU76Mx6Ua",
+        "artistUri": "spotify:artist:4G2IYsDBu9Y5svU76Mx6Ua",
+        "artistUrl": "https://open.spotify.com/artist/4G2IYsDBu9Y5svU76Mx6Ua"
+      },
+      "verifiedAt": "2026-09-27T09:24:33.933Z",
+      "tracks": [
+        {
+          "title": "ARVESSA",
+          "isrc": "QT6J42673332",
+          "releaseDate": "2026-09-07",
+          "popularity": 19,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273965aa85561bdb6d93df61e06",
+          "spotify": {
+            "trackUri": "spotify:track:4mFaF2gIHl03jWkV0NjnXZ",
+            "trackUrl": "https://open.spotify.com/track/4mFaF2gIHl03jWkV0NjnXZ",
+            "albumUri": "spotify:album:1cMS6vTL3vwWT1I0SloaOX",
+            "albumUrl": "https://open.spotify.com/album/1cMS6vTL3vwWT1I0SloaOX",
+            "albumName": "ARVESSA"
           }
         }
       ]
@@ -727,6 +905,56 @@
       ]
     },
     {
+      "name": "JLP.MUSIC",
+      "spotify": {
+        "artistId": "22cFWhugs45W025rtolaNk",
+        "artistUri": "spotify:artist:22cFWhugs45W025rtolaNk",
+        "artistUrl": "https://open.spotify.com/artist/22cFWhugs45W025rtolaNk"
+      },
+      "verifiedAt": "2026-09-27T10:14:48.021Z",
+      "tracks": [
+        {
+          "title": "B.U.M",
+          "isrc": "QT6G92630749",
+          "releaseDate": "2026-08-11",
+          "popularity": 15,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a39caeb6aa21f17916d84ce7",
+          "spotify": {
+            "trackUri": "spotify:track:6mcYSClNXHzgsqFYXHz7eB",
+            "trackUrl": "https://open.spotify.com/track/6mcYSClNXHzgsqFYXHz7eB",
+            "albumUri": "spotify:album:7IAVzDWLQuPIw8CGrm2sRC",
+            "albumUrl": "https://open.spotify.com/album/7IAVzDWLQuPIw8CGrm2sRC",
+            "albumName": "B.U.M"
+          }
+        }
+      ]
+    },
+    {
+      "name": "José Ignácio",
+      "spotify": {
+        "artistId": "3PKTRaSuYgXOZJSjhJmgzG",
+        "artistUri": "spotify:artist:3PKTRaSuYgXOZJSjhJmgzG",
+        "artistUrl": "https://open.spotify.com/artist/3PKTRaSuYgXOZJSjhJmgzG"
+      },
+      "verifiedAt": "2026-09-27T10:19:36.991Z",
+      "tracks": [
+        {
+          "title": "Almas Que Se Encuentran En Silencio",
+          "isrc": "GXLF32648397",
+          "releaseDate": "2026-08-08",
+          "popularity": 13,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27349ef949159f71465a8118e2c",
+          "spotify": {
+            "trackUri": "spotify:track:0fvuaOQGt7SPtzkmuZkrHN",
+            "trackUrl": "https://open.spotify.com/track/0fvuaOQGt7SPtzkmuZkrHN",
+            "albumUri": "spotify:album:5EDHD9ZjWJrEubK1jUKJx0",
+            "albumUrl": "https://open.spotify.com/album/5EDHD9ZjWJrEubK1jUKJx0",
+            "albumName": "Intensos Secretos"
+          }
+        }
+      ]
+    },
+    {
       "name": "Judgee",
       "spotify": {
         "artistId": "7DncdWJ1uatbne1pNgKtzw",
@@ -852,6 +1080,101 @@
       ]
     },
     {
+      "name": "Kiddo Produce",
+      "spotify": {
+        "artistId": "3dUhtXmjikeYpLsSYJNrgO",
+        "artistUri": "spotify:artist:3dUhtXmjikeYpLsSYJNrgO",
+        "artistUrl": "https://open.spotify.com/artist/3dUhtXmjikeYpLsSYJNrgO"
+      },
+      "verifiedAt": "2026-09-27T06:45:30.942Z",
+      "tracks": [
+        {
+          "title": "Amber Drift",
+          "isrc": "GXLEY2654516",
+          "releaseDate": "2026-08-22",
+          "popularity": 18,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739edc5d017b694a1aee8ca1fd",
+          "spotify": {
+            "trackUri": "spotify:track:65SjnaIrllw5UgXIaMIU31",
+            "trackUrl": "https://open.spotify.com/track/65SjnaIrllw5UgXIaMIU31",
+            "albumUri": "spotify:album:2xDcIgP0RhCQTEqfeXXzkU",
+            "albumUrl": "https://open.spotify.com/album/2xDcIgP0RhCQTEqfeXXzkU",
+            "albumName": "Techno Para Disco"
+          }
+        },
+        {
+          "title": "Dark Bloom",
+          "isrc": "GXLEY2654536",
+          "releaseDate": "2026-08-22",
+          "popularity": 19,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739edc5d017b694a1aee8ca1fd",
+          "spotify": {
+            "trackUri": "spotify:track:5KlJvmsiw49KcMC7lcV1T2",
+            "trackUrl": "https://open.spotify.com/track/5KlJvmsiw49KcMC7lcV1T2",
+            "albumUri": "spotify:album:2xDcIgP0RhCQTEqfeXXzkU",
+            "albumUrl": "https://open.spotify.com/album/2xDcIgP0RhCQTEqfeXXzkU",
+            "albumName": "Techno Para Disco"
+          }
+        },
+        {
+          "title": "Dark Energy",
+          "isrc": "GXLEY2654539",
+          "releaseDate": "2026-08-22",
+          "popularity": 18,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739edc5d017b694a1aee8ca1fd",
+          "spotify": {
+            "trackUri": "spotify:track:2q38idoQ4qjr5mHNnKQdIa",
+            "trackUrl": "https://open.spotify.com/track/2q38idoQ4qjr5mHNnKQdIa",
+            "albumUri": "spotify:album:2xDcIgP0RhCQTEqfeXXzkU",
+            "albumUrl": "https://open.spotify.com/album/2xDcIgP0RhCQTEqfeXXzkU",
+            "albumName": "Techno Para Disco"
+          }
+        },
+        {
+          "title": "Electric Tears",
+          "isrc": "GXLEY2654547",
+          "releaseDate": "2026-08-22",
+          "popularity": 17,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739edc5d017b694a1aee8ca1fd",
+          "spotify": {
+            "trackUri": "spotify:track:30y9xXwpCZeHfkPQazPTrc",
+            "trackUrl": "https://open.spotify.com/track/30y9xXwpCZeHfkPQazPTrc",
+            "albumUri": "spotify:album:2xDcIgP0RhCQTEqfeXXzkU",
+            "albumUrl": "https://open.spotify.com/album/2xDcIgP0RhCQTEqfeXXzkU",
+            "albumName": "Techno Para Disco"
+          }
+        },
+        {
+          "title": "Neon Fever",
+          "isrc": "GXLF52615889",
+          "releaseDate": "2026-08-05",
+          "popularity": 20,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273431ec603f09ec1ea417f91c5",
+          "spotify": {
+            "trackUri": "spotify:track:4ymLmcdqC9pL5VaGiAD8BJ",
+            "trackUrl": "https://open.spotify.com/track/4ymLmcdqC9pL5VaGiAD8BJ",
+            "albumUri": "spotify:album:6psiyHQYl3SKhuOrqt9t0A",
+            "albumUrl": "https://open.spotify.com/album/6psiyHQYl3SKhuOrqt9t0A",
+            "albumName": "Techno Para El Gym"
+          }
+        },
+        {
+          "title": "Sábado Chipeo",
+          "isrc": "GXLF52615888",
+          "releaseDate": "2026-08-05",
+          "popularity": 20,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273431ec603f09ec1ea417f91c5",
+          "spotify": {
+            "trackUri": "spotify:track:1VR0snMlYLgvpC934WN9O5",
+            "trackUrl": "https://open.spotify.com/track/1VR0snMlYLgvpC934WN9O5",
+            "albumUri": "spotify:album:6psiyHQYl3SKhuOrqt9t0A",
+            "albumUrl": "https://open.spotify.com/album/6psiyHQYl3SKhuOrqt9t0A",
+            "albumName": "Techno Para El Gym"
+          }
+        }
+      ]
+    },
+    {
       "name": "LCM Studio",
       "spotify": {
         "artistId": "15meOXeN0kmtLdGWA4VLxE",
@@ -897,6 +1220,31 @@
             "albumUri": "spotify:album:5s6UagPf1pTTNHGudVkzTb",
             "albumUrl": "https://open.spotify.com/album/5s6UagPf1pTTNHGudVkzTb",
             "albumName": "More"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lunar Shift",
+      "spotify": {
+        "artistId": "6S9bbkKJ10HxJAHYoZyt8F",
+        "artistUri": "spotify:artist:6S9bbkKJ10HxJAHYoZyt8F",
+        "artistUrl": "https://open.spotify.com/artist/6S9bbkKJ10HxJAHYoZyt8F"
+      },
+      "verifiedAt": "2026-09-27T10:19:36.829Z",
+      "tracks": [
+        {
+          "title": "Almas Que Se Encuentran En Silencio",
+          "isrc": "GXLF32648397",
+          "releaseDate": "2026-08-08",
+          "popularity": 13,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27349ef949159f71465a8118e2c",
+          "spotify": {
+            "trackUri": "spotify:track:0fvuaOQGt7SPtzkmuZkrHN",
+            "trackUrl": "https://open.spotify.com/track/0fvuaOQGt7SPtzkmuZkrHN",
+            "albumUri": "spotify:album:5EDHD9ZjWJrEubK1jUKJx0",
+            "albumUrl": "https://open.spotify.com/album/5EDHD9ZjWJrEubK1jUKJx0",
+            "albumName": "Intensos Secretos"
           }
         }
       ]
@@ -1116,6 +1464,31 @@
       ]
     },
     {
+      "name": "Moebius FM",
+      "spotify": {
+        "artistId": "5ocd69uQVtI0FXBVOFXSez",
+        "artistUri": "spotify:artist:5ocd69uQVtI0FXBVOFXSez",
+        "artistUrl": "https://open.spotify.com/artist/5ocd69uQVtI0FXBVOFXSez"
+      },
+      "verifiedAt": "2026-09-27T09:47:34.472Z",
+      "tracks": [
+        {
+          "title": "Neural Archive Lost",
+          "isrc": "QT6G92678489",
+          "releaseDate": "2026-08-14",
+          "popularity": 22,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273745e6dbc7c1b6cba94eaa5a8",
+          "spotify": {
+            "trackUri": "spotify:track:06XBK3uW5gC7SntUHJkv5Z",
+            "trackUrl": "https://open.spotify.com/track/06XBK3uW5gC7SntUHJkv5Z",
+            "albumUri": "spotify:album:0QX2CIX1XLjYaxEsBRVZjG",
+            "albumUrl": "https://open.spotify.com/album/0QX2CIX1XLjYaxEsBRVZjG",
+            "albumName": "Memory Left Behind"
+          }
+        }
+      ]
+    },
+    {
       "name": "Moondrift",
       "spotify": {
         "artistId": "7LqTISVSI3ggi6zYHgnTMX",
@@ -1136,6 +1509,31 @@
             "albumUri": "spotify:album:3T49NTa0g6WXXhnUHREyK9",
             "albumUrl": "https://open.spotify.com/album/3T49NTa0g6WXXhnUHREyK9",
             "albumName": "Synthetic Cathedral"
+          }
+        }
+      ]
+    },
+    {
+      "name": "MØRKE 404",
+      "spotify": {
+        "artistId": "0pHODDhKxDp399OAye0vzn",
+        "artistUri": "spotify:artist:0pHODDhKxDp399OAye0vzn",
+        "artistUrl": "https://open.spotify.com/artist/0pHODDhKxDp399OAye0vzn"
+      },
+      "verifiedAt": "2026-09-27T07:25:34.711Z",
+      "tracks": [
+        {
+          "title": "Twilight of the Shadow Goddess",
+          "isrc": "GXLEY2683433",
+          "releaseDate": "2026-09-05",
+          "popularity": 15,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732c804190fa433cd46df20200",
+          "spotify": {
+            "trackUri": "spotify:track:3ussxgW9JxSBM4vuKxY1N5",
+            "trackUrl": "https://open.spotify.com/track/3ussxgW9JxSBM4vuKxY1N5",
+            "albumUri": "spotify:album:0tourqVVAOyOm0NlLCfUt7",
+            "albumUrl": "https://open.spotify.com/album/0tourqVVAOyOm0NlLCfUt7",
+            "albumName": "Twilight of the Shadow Goddess"
           }
         }
       ]
@@ -1378,6 +1776,31 @@
             "albumUri": "spotify:album:6mPX5cd5pA4RcEmp2CrrQG",
             "albumUrl": "https://open.spotify.com/album/6mPX5cd5pA4RcEmp2CrrQG",
             "albumName": "Where We Used to Stand"
+          }
+        }
+      ]
+    },
+    {
+      "name": "oExonus",
+      "spotify": {
+        "artistId": "0Tgq4mcQ91W9te5CXE2HsQ",
+        "artistUri": "spotify:artist:0Tgq4mcQ91W9te5CXE2HsQ",
+        "artistUrl": "https://open.spotify.com/artist/0Tgq4mcQ91W9te5CXE2HsQ"
+      },
+      "verifiedAt": "2026-09-27T09:26:42.928Z",
+      "tracks": [
+        {
+          "title": "For war, we hunt.",
+          "isrc": "SE6XW2648098",
+          "releaseDate": "2026-08-21",
+          "popularity": 15,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737a06974b6a766fff2a6a8a39",
+          "spotify": {
+            "trackUri": "spotify:track:4VZeyJGRW0q2rvSyK439lS",
+            "trackUrl": "https://open.spotify.com/track/4VZeyJGRW0q2rvSyK439lS",
+            "albumUri": "spotify:album:2X4B5laSXHdlZkm0Mkzrvk",
+            "albumUrl": "https://open.spotify.com/album/2X4B5laSXHdlZkm0Mkzrvk",
+            "albumName": "For war, we hunt."
           }
         }
       ]
@@ -1772,6 +2195,31 @@
       ]
     },
     {
+      "name": "Tanzmaus",
+      "spotify": {
+        "artistId": "0ZLTqsX5IR3j1LjbTbKOui",
+        "artistUri": "spotify:artist:0ZLTqsX5IR3j1LjbTbKOui",
+        "artistUrl": "https://open.spotify.com/artist/0ZLTqsX5IR3j1LjbTbKOui"
+      },
+      "verifiedAt": "2026-09-27T08:47:23.130Z",
+      "tracks": [
+        {
+          "title": "Funk On The Floor",
+          "isrc": "QT6HJ2625129",
+          "releaseDate": "2026-08-21",
+          "popularity": 22,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273192448cacd8ece55c421171b",
+          "spotify": {
+            "trackUri": "spotify:track:4ZbgX30llLyr1JzEWLVILv",
+            "trackUrl": "https://open.spotify.com/track/4ZbgX30llLyr1JzEWLVILv",
+            "albumUri": "spotify:album:3hBsA3Ix2XsP6V7rtziS6S",
+            "albumUrl": "https://open.spotify.com/album/3hBsA3Ix2XsP6V7rtziS6S",
+            "albumName": "Funk On The Floor"
+          }
+        }
+      ]
+    },
+    {
       "name": "Techo T.R. Shortgroove",
       "spotify": {
         "artistId": "6oiuEiDNoS5TaKLh3tc5kM",
@@ -1875,6 +2323,31 @@
       ]
     },
     {
+      "name": "TibFUNK",
+      "spotify": {
+        "artistId": "20nj5BfhgTye89jtMdhQrW",
+        "artistUri": "spotify:artist:20nj5BfhgTye89jtMdhQrW",
+        "artistUrl": "https://open.spotify.com/artist/20nj5BfhgTye89jtMdhQrW"
+      },
+      "verifiedAt": "2026-09-27T06:36:05.109Z",
+      "tracks": [
+        {
+          "title": "Too Much",
+          "isrc": "QZNMX2653595",
+          "releaseDate": "2026-09-19",
+          "popularity": 19,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27314c9ad7a6091107de4a1b592",
+          "spotify": {
+            "trackUri": "spotify:track:5ze3i5sbkcHOdWGcv42arq",
+            "trackUrl": "https://open.spotify.com/track/5ze3i5sbkcHOdWGcv42arq",
+            "albumUri": "spotify:album:2tJ3oOeVVcqhnYvHWXtcKO",
+            "albumUrl": "https://open.spotify.com/album/2tJ3oOeVVcqhnYvHWXtcKO",
+            "albumName": "Too Much"
+          }
+        }
+      ]
+    },
+    {
       "name": "Tommy Waveform",
       "spotify": {
         "artistId": "41wXwqnRHpf9y5MyfaS42Z",
@@ -1945,6 +2418,31 @@
             "albumUri": "spotify:album:6W1FOjjHxWxtfuQhEl1H6Z",
             "albumUrl": "https://open.spotify.com/album/6W1FOjjHxWxtfuQhEl1H6Z",
             "albumName": "Echoes of Home Vibes"
+          }
+        }
+      ]
+    },
+    {
+      "name": "VantyX",
+      "spotify": {
+        "artistId": "6S8fbGDAixYflEInNHLIJl",
+        "artistUri": "spotify:artist:6S8fbGDAixYflEInNHLIJl",
+        "artistUrl": "https://open.spotify.com/artist/6S8fbGDAixYflEInNHLIJl"
+      },
+      "verifiedAt": "2026-09-27T07:17:51.062Z",
+      "tracks": [
+        {
+          "title": "I Stayed Too Long",
+          "isrc": "QT6J52636546",
+          "releaseDate": "2026-09-07",
+          "popularity": 12,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c22491d282b1fd47aa51858c",
+          "spotify": {
+            "trackUri": "spotify:track:6gHtJLfFdUSnXY7qzewlNf",
+            "trackUrl": "https://open.spotify.com/track/6gHtJLfFdUSnXY7qzewlNf",
+            "albumUri": "spotify:album:51PPVO8PBZz2TNsobOQw3P",
+            "albumUrl": "https://open.spotify.com/album/51PPVO8PBZz2TNsobOQw3P",
+            "albumName": "I Stayed Too Long"
           }
         }
       ]
@@ -2025,6 +2523,31 @@
       ]
     },
     {
+      "name": "VOLUNA",
+      "spotify": {
+        "artistId": "5hqQpq7DIxBASMU5N9YWzf",
+        "artistUri": "spotify:artist:5hqQpq7DIxBASMU5N9YWzf",
+        "artistUrl": "https://open.spotify.com/artist/5hqQpq7DIxBASMU5N9YWzf"
+      },
+      "verifiedAt": "2026-09-27T06:43:55.210Z",
+      "tracks": [
+        {
+          "title": "NIGTH BOOM",
+          "isrc": "QT6HT2661815",
+          "releaseDate": "2026-08-27",
+          "popularity": 16,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273de46524c1c2cd914d9efa05e",
+          "spotify": {
+            "trackUri": "spotify:track:4UjEjTFzU24bytq2ZUd21d",
+            "trackUrl": "https://open.spotify.com/track/4UjEjTFzU24bytq2ZUd21d",
+            "albumUri": "spotify:album:70P2VlCx0giUwYQggxOw6A",
+            "albumUrl": "https://open.spotify.com/album/70P2VlCx0giUwYQggxOw6A",
+            "albumName": "BABY BAMM"
+          }
+        }
+      ]
+    },
+    {
       "name": "vomit shower",
       "spotify": {
         "artistId": "2BIpogaFW2c5nEis8utu40",
@@ -2095,6 +2618,56 @@
             "albumUri": "spotify:album:7HHaYPbbt5uwbGSARg7zHj",
             "albumUrl": "https://open.spotify.com/album/7HHaYPbbt5uwbGSARg7zHj",
             "albumName": "In The House of Quiet Things"
+          }
+        }
+      ]
+    },
+    {
+      "name": "WilsonBert",
+      "spotify": {
+        "artistId": "16dDnk2EVUrinBQqhSc21v",
+        "artistUri": "spotify:artist:16dDnk2EVUrinBQqhSc21v",
+        "artistUrl": "https://open.spotify.com/artist/16dDnk2EVUrinBQqhSc21v"
+      },
+      "verifiedAt": "2026-09-27T06:35:13.831Z",
+      "tracks": [
+        {
+          "title": "Soul Connection",
+          "isrc": "QT6HN2624152",
+          "releaseDate": "2026-09-04",
+          "popularity": 11,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739224e3fa685c31fc8ff61d75",
+          "spotify": {
+            "trackUri": "spotify:track:6JPUtvCFDdAXwA5S32tT9O",
+            "trackUrl": "https://open.spotify.com/track/6JPUtvCFDdAXwA5S32tT9O",
+            "albumUri": "spotify:album:7vSD4EF22y5P2WWrDLmxRZ",
+            "albumUrl": "https://open.spotify.com/album/7vSD4EF22y5P2WWrDLmxRZ",
+            "albumName": "70s MIDNIGHT GROOVE"
+          }
+        }
+      ]
+    },
+    {
+      "name": "YALUMIS",
+      "spotify": {
+        "artistId": "7pKSTDmmOvfOA456JD9LPq",
+        "artistUri": "spotify:artist:7pKSTDmmOvfOA456JD9LPq",
+        "artistUrl": "https://open.spotify.com/artist/7pKSTDmmOvfOA456JD9LPq"
+      },
+      "verifiedAt": "2026-09-27T06:46:24.845Z",
+      "tracks": [
+        {
+          "title": "MARTILLO DE PIANO",
+          "isrc": "QT6HT2690290",
+          "releaseDate": "2026-08-27",
+          "popularity": 12,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27346e53038b473c708ba9a89ae",
+          "spotify": {
+            "trackUri": "spotify:track:3aGj5yQNYaOr2yBHOxtoLr",
+            "trackUrl": "https://open.spotify.com/track/3aGj5yQNYaOr2yBHOxtoLr",
+            "albumUri": "spotify:album:2ijJrF1fOXYEYKletpxsRt",
+            "albumUrl": "https://open.spotify.com/album/2ijJrF1fOXYEYKletpxsRt",
+            "albumName": "POWER GIRLS"
           }
         }
       ]
