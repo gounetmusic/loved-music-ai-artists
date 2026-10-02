@@ -1,10 +1,10 @@
 {
   "source": "https://loved.music/ai-artists.json",
-  "description": "Artists reviewed manually by Vernon and identified as AI-generated projects (AI slop). Each artist is identified by its Spotify artist id; tracks are those in the Vernon catalog at review time.",
-  "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each verified manually by Vernon before being listed.",
+  "description": "Spotify artist profiles reviewed by hand by the Vernon team and assessed as AI-generated projects. This is the team's assessment, not a ruling, and an entry can be contested. Each artist is identified by its Spotify artist id; tracks are those in the Vernon catalog at review time.",
+  "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 200,
+  "count": 221,
   "artists": [
     {
       "name": "[DanMixCamps]",
@@ -91,6 +91,31 @@
             "albumUri": "spotify:album:06f1IjkkEk3yTdmlYlYx5h",
             "albumUrl": "https://open.spotify.com/album/06f1IjkkEk3yTdmlYlYx5h",
             "albumName": "MANZANAS DE NEÓN"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adrian Vorn",
+      "spotify": {
+        "artistId": "0FsbfjjaYYXjNqT2mXqPp5",
+        "artistUri": "spotify:artist:0FsbfjjaYYXjNqT2mXqPp5",
+        "artistUrl": "https://open.spotify.com/artist/0FsbfjjaYYXjNqT2mXqPp5"
+      },
+      "verifiedAt": "2026-10-02T08:07:21.545Z",
+      "tracks": [
+        {
+          "title": "One Promise",
+          "isrc": "QZPEW0856774",
+          "releaseDate": "2026-08-08",
+          "popularity": 15,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273b09cf42f69ab7abfc6c95588",
+          "spotify": {
+            "trackUri": "spotify:track:0VnRsbEuQG60fYjnHTXGxh",
+            "trackUrl": "https://open.spotify.com/track/0VnRsbEuQG60fYjnHTXGxh",
+            "albumUri": "spotify:album:54xpyEX47i4K3fHP8JKA26",
+            "albumUrl": "https://open.spotify.com/album/54xpyEX47i4K3fHP8JKA26",
+            "albumName": "One Promise"
           }
         }
       ]
@@ -360,6 +385,31 @@
       ]
     },
     {
+      "name": "Austerity XTP",
+      "spotify": {
+        "artistId": "0yWx5NjK07kgtukmjQuCNh",
+        "artistUri": "spotify:artist:0yWx5NjK07kgtukmjQuCNh",
+        "artistUrl": "https://open.spotify.com/artist/0yWx5NjK07kgtukmjQuCNh"
+      },
+      "verifiedAt": "2026-10-02T08:05:13.705Z",
+      "tracks": [
+        {
+          "title": "Analog Circuit",
+          "isrc": "QT62V2675703",
+          "releaseDate": "2026-07-17",
+          "popularity": 15,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27333f43c5b83b41ec18493fcd9",
+          "spotify": {
+            "trackUri": "spotify:track:2s9LSW6mhYI5Dof4dXzuxH",
+            "trackUrl": "https://open.spotify.com/track/2s9LSW6mhYI5Dof4dXzuxH",
+            "albumUri": "spotify:album:3g06h4r2yaZLMLwPiiVjKC",
+            "albumUrl": "https://open.spotify.com/album/3g06h4r2yaZLMLwPiiVjKC",
+            "albumName": "Abyssal Ascent"
+          }
+        }
+      ]
+    },
+    {
       "name": "Avenue Lights",
       "spotify": {
         "artistId": "6obb2GsfbBE8ly8daytjRA",
@@ -405,6 +455,31 @@
             "albumUri": "spotify:album:6CCa7uDE3lLo2p54KoFeU1",
             "albumUrl": "https://open.spotify.com/album/6CCa7uDE3lLo2p54KoFeU1",
             "albumName": "Asphalt Ritual"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Axiomist",
+      "spotify": {
+        "artistId": "4anNXOkeh4YynVZoueCcZ5",
+        "artistUri": "spotify:artist:4anNXOkeh4YynVZoueCcZ5",
+        "artistUrl": "https://open.spotify.com/artist/4anNXOkeh4YynVZoueCcZ5"
+      },
+      "verifiedAt": "2026-10-02T07:58:46.040Z",
+      "tracks": [
+        {
+          "title": "Turning Blue",
+          "isrc": "QZPJ32556502",
+          "releaseDate": "2026-06-08",
+          "popularity": 26,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733676b78d9d1c205fa41ca1d6",
+          "spotify": {
+            "trackUri": "spotify:track:0v4z2OrROz1QgqeatmNkq1",
+            "trackUrl": "https://open.spotify.com/track/0v4z2OrROz1QgqeatmNkq1",
+            "albumUri": "spotify:album:2f4pJCS9bXFTWkDAySTmm2",
+            "albumUrl": "https://open.spotify.com/album/2f4pJCS9bXFTWkDAySTmm2",
+            "albumName": "Go For It"
           }
         }
       ]
@@ -558,6 +633,31 @@
             "albumUri": "spotify:album:5cfmaM0f5lZNN9GifU5PAv",
             "albumUrl": "https://open.spotify.com/album/5cfmaM0f5lZNN9GifU5PAv",
             "albumName": "Sgroppino Afterglow | Prosecco Deep House 2026 | Italian Summer Nights"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bon Chic",
+      "spotify": {
+        "artistId": "3eRVAsuTAaNukj2vfRnaYo",
+        "artistUri": "spotify:artist:3eRVAsuTAaNukj2vfRnaYo",
+        "artistUrl": "https://open.spotify.com/artist/3eRVAsuTAaNukj2vfRnaYo"
+      },
+      "verifiedAt": "2026-10-02T10:20:20.244Z",
+      "tracks": [
+        {
+          "title": "Leveraged Buyout",
+          "isrc": "QZZ7T2543971",
+          "releaseDate": "2025-09-08",
+          "popularity": 15,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739bd12f3f8298010f8f635332",
+          "spotify": {
+            "trackUri": "spotify:track:4s9zJlPC9FVDb4yXKtdzb9",
+            "trackUrl": "https://open.spotify.com/track/4s9zJlPC9FVDb4yXKtdzb9",
+            "albumUri": "spotify:album:4GHJSvoYCBfaQpgpXCo6Bs",
+            "albumUrl": "https://open.spotify.com/album/4GHJSvoYCBfaQpgpXCo6Bs",
+            "albumName": "Corporate Dreams II : The Atrium"
           }
         }
       ]
@@ -738,6 +838,56 @@
       ]
     },
     {
+      "name": "Davvi",
+      "spotify": {
+        "artistId": "4kMgbir266IyTMt8T4Gn1Q",
+        "artistUri": "spotify:artist:4kMgbir266IyTMt8T4Gn1Q",
+        "artistUrl": "https://open.spotify.com/artist/4kMgbir266IyTMt8T4Gn1Q"
+      },
+      "verifiedAt": "2026-10-02T07:08:17.222Z",
+      "tracks": [
+        {
+          "title": "My Love",
+          "isrc": "GB8KE2621352",
+          "releaseDate": "2026-09-25",
+          "popularity": 34,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2732946c9ddd7d220c00d01b146",
+          "spotify": {
+            "trackUri": "spotify:track:6Mx6RUTNx5EZwddVgQUX3g",
+            "trackUrl": "https://open.spotify.com/track/6Mx6RUTNx5EZwddVgQUX3g",
+            "albumUri": "spotify:album:1w9lUFuXcY52mJlyzCJUCo",
+            "albumUrl": "https://open.spotify.com/album/1w9lUFuXcY52mJlyzCJUCo",
+            "albumName": "My Love"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Debbie Soul",
+      "spotify": {
+        "artistId": "0uQ7pzkfPZVb2FqDRRQjdx",
+        "artistUri": "spotify:artist:0uQ7pzkfPZVb2FqDRRQjdx",
+        "artistUrl": "https://open.spotify.com/artist/0uQ7pzkfPZVb2FqDRRQjdx"
+      },
+      "verifiedAt": "2026-10-02T07:51:57.267Z",
+      "tracks": [
+        {
+          "title": "Bid For Freedom",
+          "isrc": "QT6J52654853",
+          "releaseDate": "2026-09-11",
+          "popularity": 14,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e5e0b9d8f29b21eaa8e7d288",
+          "spotify": {
+            "trackUri": "spotify:track:0PClVpDJFbtxFCPVpusbug",
+            "trackUrl": "https://open.spotify.com/track/0PClVpDJFbtxFCPVpusbug",
+            "albumUri": "spotify:album:5FWOTJVJIMUcByEpLHL5kW",
+            "albumUrl": "https://open.spotify.com/album/5FWOTJVJIMUcByEpLHL5kW",
+            "albumName": "Bid For Freedom"
+          }
+        }
+      ]
+    },
+    {
       "name": "Decksonic Rhythmwave",
       "spotify": {
         "artistId": "0gubEcOXDS3dUPlKudY2FP",
@@ -913,6 +1063,31 @@
       ]
     },
     {
+      "name": "Dj Chiribobo",
+      "spotify": {
+        "artistId": "2vDH51unIhodgdgENMMSvE",
+        "artistUri": "spotify:artist:2vDH51unIhodgdgENMMSvE",
+        "artistUrl": "https://open.spotify.com/artist/2vDH51unIhodgdgENMMSvE"
+      },
+      "verifiedAt": "2026-10-02T08:06:55.046Z",
+      "tracks": [
+        {
+          "title": "el pelao",
+          "isrc": "QZZ7T2668703",
+          "releaseDate": "2026-05-20",
+          "popularity": 22,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273505a8818306921ee6c6d3ad3",
+          "spotify": {
+            "trackUri": "spotify:track:5m6e3bVbmyA6btApx9wZVN",
+            "trackUrl": "https://open.spotify.com/track/5m6e3bVbmyA6btApx9wZVN",
+            "albumUri": "spotify:album:2NtVWd6wI7IdOMNQ8YcrJL",
+            "albumUrl": "https://open.spotify.com/album/2NtVWd6wI7IdOMNQ8YcrJL",
+            "albumName": "el pelao"
+          }
+        }
+      ]
+    },
+    {
       "name": "Dj Dante",
       "spotify": {
         "artistId": "0hlYB6pf4kYwwU8DdF7o4i",
@@ -983,6 +1158,31 @@
             "albumUri": "spotify:album:5Iqjaegg9ZT4eUxKXcZnuW",
             "albumUrl": "https://open.spotify.com/album/5Iqjaegg9ZT4eUxKXcZnuW",
             "albumName": "The Eclipse"
+          }
+        }
+      ]
+    },
+    {
+      "name": "DJ GaryS",
+      "spotify": {
+        "artistId": "0j535kQvOnSsGdheMXlFYa",
+        "artistUri": "spotify:artist:0j535kQvOnSsGdheMXlFYa",
+        "artistUrl": "https://open.spotify.com/artist/0j535kQvOnSsGdheMXlFYa"
+      },
+      "verifiedAt": "2026-10-02T10:20:32.869Z",
+      "tracks": [
+        {
+          "title": "Touch Me Tonight",
+          "isrc": "QT6FZ2518337",
+          "releaseDate": "2025-08-15",
+          "popularity": 13,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273de592b849db518c87015976b",
+          "spotify": {
+            "trackUri": "spotify:track:1Gl4EqEqieLsGPPhRYXsyW",
+            "trackUrl": "https://open.spotify.com/track/1Gl4EqEqieLsGPPhRYXsyW",
+            "albumUri": "spotify:album:6NGq7cmVfuUuBw9GPcsS3b",
+            "albumUrl": "https://open.spotify.com/album/6NGq7cmVfuUuBw9GPcsS3b",
+            "albumName": "Touch Me Tonight"
           }
         }
       ]
@@ -1175,6 +1375,31 @@
             "albumUri": "spotify:album:208pEGKh7AyVUeYRZHRaX4",
             "albumUrl": "https://open.spotify.com/album/208pEGKh7AyVUeYRZHRaX4",
             "albumName": "Digital connection"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dj star",
+      "spotify": {
+        "artistId": "7pz4NH7Tw38SPQPiZMOWuU",
+        "artistUri": "spotify:artist:7pz4NH7Tw38SPQPiZMOWuU",
+        "artistUrl": "https://open.spotify.com/artist/7pz4NH7Tw38SPQPiZMOWuU"
+      },
+      "verifiedAt": "2026-10-02T07:54:14.129Z",
+      "tracks": [
+        {
+          "title": "CRAZY",
+          "isrc": "QT6J52684755",
+          "releaseDate": "2026-09-08",
+          "popularity": 18,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27308e4d7ccff0bdeffc4f210b7",
+          "spotify": {
+            "trackUri": "spotify:track:0VM4mQERZYto5Rp2YqprEj",
+            "trackUrl": "https://open.spotify.com/track/0VM4mQERZYto5Rp2YqprEj",
+            "albumUri": "spotify:album:4rrNzAzqoCV97FLkeBhbbV",
+            "albumUrl": "https://open.spotify.com/album/4rrNzAzqoCV97FLkeBhbbV",
+            "albumName": "CRAZY"
           }
         }
       ]
@@ -1517,6 +1742,31 @@
       ]
     },
     {
+      "name": "El Vato Digital",
+      "spotify": {
+        "artistId": "1DnGmKgT9wbH6QpN6jGJXW",
+        "artistUri": "spotify:artist:1DnGmKgT9wbH6QpN6jGJXW",
+        "artistUrl": "https://open.spotify.com/artist/1DnGmKgT9wbH6QpN6jGJXW"
+      },
+      "verifiedAt": "2026-10-02T07:49:31.135Z",
+      "tracks": [
+        {
+          "title": "Accordion Arpeggio",
+          "isrc": "QT8CF2603831",
+          "releaseDate": "2026-09-04",
+          "popularity": 16,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c127e8eb14c415f955dbf2f7",
+          "spotify": {
+            "trackUri": "spotify:track:1IaMzKg4o4pymXobMW2gnB",
+            "trackUrl": "https://open.spotify.com/track/1IaMzKg4o4pymXobMW2gnB",
+            "albumUri": "spotify:album:3oAJslE0bX08eEBdOzSCIF",
+            "albumUrl": "https://open.spotify.com/album/3oAJslE0bX08eEBdOzSCIF",
+            "albumName": "Jalisco Funk"
+          }
+        }
+      ]
+    },
+    {
       "name": "Electrohead66673",
       "spotify": {
         "artistId": "17JtkU3RbElrAeBdhOTsZI",
@@ -1542,6 +1792,31 @@
       ]
     },
     {
+      "name": "Fiete Ludecke",
+      "spotify": {
+        "artistId": "1XF1VYo2XaoRiB2hx0PfDe",
+        "artistUri": "spotify:artist:1XF1VYo2XaoRiB2hx0PfDe",
+        "artistUrl": "https://open.spotify.com/artist/1XF1VYo2XaoRiB2hx0PfDe"
+      },
+      "verifiedAt": "2026-10-02T10:19:46.749Z",
+      "tracks": [
+        {
+          "title": "But The Name",
+          "isrc": "QZWFN2621639",
+          "releaseDate": "2026-04-22",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735b528f38b1f4a277e90817d3",
+          "spotify": {
+            "trackUri": "spotify:track:7MuDMgkVbJ4qBBs6OMg5tg",
+            "trackUrl": "https://open.spotify.com/track/7MuDMgkVbJ4qBBs6OMg5tg",
+            "albumUri": "spotify:album:0GHnAlTgne2j7CCNeLKLZC",
+            "albumUrl": "https://open.spotify.com/album/0GHnAlTgne2j7CCNeLKLZC",
+            "albumName": "But The Name"
+          }
+        }
+      ]
+    },
+    {
       "name": "FiruX",
       "spotify": {
         "artistId": "65a72qjza7Q0wkxK0xxgzz",
@@ -1562,6 +1837,81 @@
             "albumUri": "spotify:album:3fZzotC0XvIgdmBcMoHa6u",
             "albumUrl": "https://open.spotify.com/album/3fZzotC0XvIgdmBcMoHa6u",
             "albumName": "Firu Prendio"
+          }
+        }
+      ]
+    },
+    {
+      "name": "FORENE LONTANO",
+      "spotify": {
+        "artistId": "3sHBE7FfNkeAYfM3ukhV8k",
+        "artistUri": "spotify:artist:3sHBE7FfNkeAYfM3ukhV8k",
+        "artistUrl": "https://open.spotify.com/artist/3sHBE7FfNkeAYfM3ukhV8k"
+      },
+      "verifiedAt": "2026-10-02T07:51:56.944Z",
+      "tracks": [
+        {
+          "title": "Bid For Freedom",
+          "isrc": "QT6J52654853",
+          "releaseDate": "2026-09-11",
+          "popularity": 14,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273e5e0b9d8f29b21eaa8e7d288",
+          "spotify": {
+            "trackUri": "spotify:track:0PClVpDJFbtxFCPVpusbug",
+            "trackUrl": "https://open.spotify.com/track/0PClVpDJFbtxFCPVpusbug",
+            "albumUri": "spotify:album:5FWOTJVJIMUcByEpLHL5kW",
+            "albumUrl": "https://open.spotify.com/album/5FWOTJVJIMUcByEpLHL5kW",
+            "albumName": "Bid For Freedom"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Francesco Bellini & Valeri Rossi",
+      "spotify": {
+        "artistId": "52kznP0mZupfg3g6FAT0Ya",
+        "artistUri": "spotify:artist:52kznP0mZupfg3g6FAT0Ya",
+        "artistUrl": "https://open.spotify.com/artist/52kznP0mZupfg3g6FAT0Ya"
+      },
+      "verifiedAt": "2026-10-02T07:04:17.773Z",
+      "tracks": [
+        {
+          "title": "Digi Digi",
+          "isrc": "QTA2Q2652410",
+          "releaseDate": "2026-09-23",
+          "popularity": 26,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27344881a615faca276f00ab9b1",
+          "spotify": {
+            "trackUri": "spotify:track:3BZgLDLmQKM7tLnVjdIYuI",
+            "trackUrl": "https://open.spotify.com/track/3BZgLDLmQKM7tLnVjdIYuI",
+            "albumUri": "spotify:album:4HHEt1F5PtA8ftPjGTmjcT",
+            "albumUrl": "https://open.spotify.com/album/4HHEt1F5PtA8ftPjGTmjcT",
+            "albumName": "Digi Digi"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Funkonaut Sound",
+      "spotify": {
+        "artistId": "6uejbOwuN8C0aWgDJc0Z61",
+        "artistUri": "spotify:artist:6uejbOwuN8C0aWgDJc0Z61",
+        "artistUrl": "https://open.spotify.com/artist/6uejbOwuN8C0aWgDJc0Z61"
+      },
+      "verifiedAt": "2026-10-02T10:19:12.052Z",
+      "tracks": [
+        {
+          "title": "Afterglow Funk",
+          "isrc": "QT3F22586046",
+          "releaseDate": "2025-09-27",
+          "popularity": 12,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27323344b7eadf8ee52554d1a2f",
+          "spotify": {
+            "trackUri": "spotify:track:1vPpG2vLaUGmiGAQW1k3Ob",
+            "trackUrl": "https://open.spotify.com/track/1vPpG2vLaUGmiGAQW1k3Ob",
+            "albumUri": "spotify:album:308AN26EQSJztlAaFwTHmK",
+            "albumUrl": "https://open.spotify.com/album/308AN26EQSJztlAaFwTHmK",
+            "albumName": "Digital Galaxy"
           }
         }
       ]
@@ -1887,6 +2237,31 @@
             "albumUri": "spotify:album:3Pq2EqYWfrQOWz8z0oyEjy",
             "albumUrl": "https://open.spotify.com/album/3Pq2EqYWfrQOWz8z0oyEjy",
             "albumName": "Into the Deep"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ISLANO",
+      "spotify": {
+        "artistId": "5hclFwbSBBZ3Q2j6BjCkxU",
+        "artistUri": "spotify:artist:5hclFwbSBBZ3Q2j6BjCkxU",
+        "artistUrl": "https://open.spotify.com/artist/5hclFwbSBBZ3Q2j6BjCkxU"
+      },
+      "verifiedAt": "2026-10-02T10:19:31.338Z",
+      "tracks": [
+        {
+          "title": "SAND IN MY SOUL",
+          "isrc": "QZRP42548680",
+          "releaseDate": "2025-05-30",
+          "popularity": 14,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273df7d1b0c08efaa0234de08fb",
+          "spotify": {
+            "trackUri": "spotify:track:59XzhkfxEaLwWW2e9P1HER",
+            "trackUrl": "https://open.spotify.com/track/59XzhkfxEaLwWW2e9P1HER",
+            "albumUri": "spotify:album:6PMxrFugpg4HZ0V2BQ1pZH",
+            "albumUrl": "https://open.spotify.com/album/6PMxrFugpg4HZ0V2BQ1pZH",
+            "albumName": "DEEP OF HOUSE"
           }
         }
       ]
@@ -3513,6 +3888,56 @@
       ]
     },
     {
+      "name": "MRCN Music",
+      "spotify": {
+        "artistId": "2CI0qbwdIgxYe19Vcm5x0r",
+        "artistUri": "spotify:artist:2CI0qbwdIgxYe19Vcm5x0r",
+        "artistUrl": "https://open.spotify.com/artist/2CI0qbwdIgxYe19Vcm5x0r"
+      },
+      "verifiedAt": "2026-10-02T07:03:54.282Z",
+      "tracks": [
+        {
+          "title": "Wciąż tu jesteś",
+          "isrc": "QT9XP2624515",
+          "releaseDate": "2026-09-21",
+          "popularity": 18,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738481e953ef03d5ffca5036c9",
+          "spotify": {
+            "trackUri": "spotify:track:5NOx3iL41JEVwfxsC9I3SN",
+            "trackUrl": "https://open.spotify.com/track/5NOx3iL41JEVwfxsC9I3SN",
+            "albumUri": "spotify:album:26YJjd8qUFxE2zha5zgmxF",
+            "albumUrl": "https://open.spotify.com/album/26YJjd8qUFxE2zha5zgmxF",
+            "albumName": "Wciąż tu jesteś"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Musta Vibes",
+      "spotify": {
+        "artistId": "1ijvKlAZLql8fnbGw9mCO9",
+        "artistUri": "spotify:artist:1ijvKlAZLql8fnbGw9mCO9",
+        "artistUrl": "https://open.spotify.com/artist/1ijvKlAZLql8fnbGw9mCO9"
+      },
+      "verifiedAt": "2026-10-02T07:55:24.738Z",
+      "tracks": [
+        {
+          "title": "Sub Control",
+          "isrc": "CALVP2635648",
+          "releaseDate": "2026-09-15",
+          "popularity": 21,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273697ef3f05e37dc9bd634092e",
+          "spotify": {
+            "trackUri": "spotify:track:4x4sT3wjD9RncZrEkpWso6",
+            "trackUrl": "https://open.spotify.com/track/4x4sT3wjD9RncZrEkpWso6",
+            "albumUri": "spotify:album:7EmAh4lV50aZRydfLnVYV2",
+            "albumUrl": "https://open.spotify.com/album/7EmAh4lV50aZRydfLnVYV2",
+            "albumName": "Bad Nights"
+          }
+        }
+      ]
+    },
+    {
       "name": "MysticHouseMann",
       "spotify": {
         "artistId": "0HWVpBW0H4whHFTSG0Pw3r",
@@ -4033,6 +4458,31 @@
       ]
     },
     {
+      "name": "Organic Housemates",
+      "spotify": {
+        "artistId": "2J81iUhPWwvZcgfIKZ467Z",
+        "artistUri": "spotify:artist:2J81iUhPWwvZcgfIKZ467Z",
+        "artistUrl": "https://open.spotify.com/artist/2J81iUhPWwvZcgfIKZ467Z"
+      },
+      "verifiedAt": "2026-10-02T08:06:58.396Z",
+      "tracks": [
+        {
+          "title": "Push and Pull",
+          "isrc": "RUAHN2628493",
+          "releaseDate": "2026-05-21",
+          "popularity": 14,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737ec58c0953d7682a7e359403",
+          "spotify": {
+            "trackUri": "spotify:track:49nhOkfTA4LzWwwsDUooDd",
+            "trackUrl": "https://open.spotify.com/track/49nhOkfTA4LzWwwsDUooDd",
+            "albumUri": "spotify:album:40uxZ8U3JSrVVR0Gat9142",
+            "albumUrl": "https://open.spotify.com/album/40uxZ8U3JSrVVR0Gat9142",
+            "albumName": "Jazz House Euphoria (White Cello Side)"
+          }
+        }
+      ]
+    },
+    {
       "name": "Pacific Vice",
       "spotify": {
         "artistId": "2lylNePmQ8GNLXRimKjju1",
@@ -4183,6 +4633,31 @@
       ]
     },
     {
+      "name": "Pocket Nosferatu",
+      "spotify": {
+        "artistId": "1DWBQmY4UVBXHyGcA6jKKy",
+        "artistUri": "spotify:artist:1DWBQmY4UVBXHyGcA6jKKy",
+        "artistUrl": "https://open.spotify.com/artist/1DWBQmY4UVBXHyGcA6jKKy"
+      },
+      "verifiedAt": "2026-10-02T07:57:31.054Z",
+      "tracks": [
+        {
+          "title": "Of the Hawkmen",
+          "isrc": "QT6FH2646106",
+          "releaseDate": "2026-09-04",
+          "popularity": 10,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ac0b09735cecbabb7e57dba8",
+          "spotify": {
+            "trackUri": "spotify:track:037xlejI2921hYTuBjrKz4",
+            "trackUrl": "https://open.spotify.com/track/037xlejI2921hYTuBjrKz4",
+            "albumUri": "spotify:album:15liif3AjMeuiXnKOy4sNT",
+            "albumUrl": "https://open.spotify.com/album/15liif3AjMeuiXnKOy4sNT",
+            "albumName": "This Is A Pocket Nosferatu Album"
+          }
+        }
+      ]
+    },
+    {
       "name": "POIDY RS",
       "spotify": {
         "artistId": "0syWeIiNtxqlKs2DNLlmMo",
@@ -4228,6 +4703,31 @@
             "albumUri": "spotify:album:4JRKHVxComO7nzWghT3slC",
             "albumUrl": "https://open.spotify.com/album/4JRKHVxComO7nzWghT3slC",
             "albumName": "Baptism"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pure Hybrid Beats",
+      "spotify": {
+        "artistId": "2sPWRzqFNJOH4PIo3FKP6k",
+        "artistUri": "spotify:artist:2sPWRzqFNJOH4PIo3FKP6k",
+        "artistUrl": "https://open.spotify.com/artist/2sPWRzqFNJOH4PIo3FKP6k"
+      },
+      "verifiedAt": "2026-10-02T07:56:00.877Z",
+      "tracks": [
+        {
+          "title": "Core Protocol",
+          "isrc": "QT6ED2671841",
+          "releaseDate": "2026-07-03",
+          "popularity": 15,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27356ece21e1e94dc2a77d05955",
+          "spotify": {
+            "trackUri": "spotify:track:3GovuoNt3C4VOoCsONHNf5",
+            "trackUrl": "https://open.spotify.com/track/3GovuoNt3C4VOoCsONHNf5",
+            "albumUri": "spotify:album:60r3y5pqPhNhzTG1GKCY0Z",
+            "albumUrl": "https://open.spotify.com/album/60r3y5pqPhNhzTG1GKCY0Z",
+            "albumName": "Core Protocol"
           }
         }
       ]
@@ -4517,6 +5017,31 @@
             "albumUri": "spotify:album:28IdOorHUgtdIq56OEdhNR",
             "albumUrl": "https://open.spotify.com/album/28IdOorHUgtdIq56OEdhNR",
             "albumName": "ECHOES OF TOMORROW"
+          }
+        }
+      ]
+    },
+    {
+      "name": "SABZERO",
+      "spotify": {
+        "artistId": "4vh2FizY4yhINf07tmzicE",
+        "artistUri": "spotify:artist:4vh2FizY4yhINf07tmzicE",
+        "artistUrl": "https://open.spotify.com/artist/4vh2FizY4yhINf07tmzicE"
+      },
+      "verifiedAt": "2026-10-02T08:07:17.470Z",
+      "tracks": [
+        {
+          "title": "Happiness retouched",
+          "isrc": "QT9XM2643077",
+          "releaseDate": "2026-09-17",
+          "popularity": 20,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273d4dc650684d71f8e9c7fe0fe",
+          "spotify": {
+            "trackUri": "spotify:track:0OURijtyYvG28wbD6KHeF9",
+            "trackUrl": "https://open.spotify.com/track/0OURijtyYvG28wbD6KHeF9",
+            "albumUri": "spotify:album:56m0yAZ5O8sxuXJhC1DDnr",
+            "albumUrl": "https://open.spotify.com/album/56m0yAZ5O8sxuXJhC1DDnr",
+            "albumName": "ICE DRUMS OF THE FUTURE"
           }
         }
       ]
