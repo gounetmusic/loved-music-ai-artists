@@ -1,6 +1,8 @@
 # loved.music AI artists
 
-Spotify artists that the [loved.music](https://loved.music) team (Vernon) reviewed by hand and identified as AI-generated projects, aka AI slop.
+Spotify artist profiles that the [loved.music](https://loved.music) team (Vernon) reviewed by hand and assessed as AI-generated projects.
+
+This is the team's assessment, not a ruling: we can be wrong, and an entry can be [contested](#contest-an-entry).
 
 **<!-- count -->200<!-- /count --> artists**, identified by Spotify artist id. Updated daily from [loved.music/ai-artists.json](https://loved.music/ai-artists.json).
 
@@ -13,6 +15,10 @@ Spotify artists that the [loved.music](https://loved.music) team (Vernon) review
 
 Blockers built on CennoxX's CSV can load `ai-artists.csv` as is. Names are not identifiers: match on the Spotify artist id.
 
+## A name is not an artist
+
+Names are not unique on Spotify, and many AI projects take the name of a real artist (name squatting). An entry is one Spotify artist profile, identified by its Spotify artist id, never a name. Sharing a name with an entry does not mean you are listed: only the profile with that exact id is. The id is the last part of a profile's Spotify link: `open.spotify.com/artist/<id>`.
+
 ## How artists get on the list
 
 1. [Vernon](https://loved.music) digs new electronic music on Spotify. Candidate tracks are screened with the [SH Labs](https://shlabs.music) AI music detector.
@@ -23,7 +29,7 @@ The git history shows every addition and removal, with its date.
 
 ## Contest an entry
 
-If you believe an entry is wrong, write to **contact@loved.music** or [open an issue](https://github.com/gounetmusic/loved-music-ai-artists/issues). We review and remove mistakes promptly; removals reach this repo on the next daily sync.
+If you believe an entry is wrong, write to **contact@loved.music** or [open an issue](https://github.com/gounetmusic/loved-music-ai-artists/issues), with the Spotify artist id of the entry. We review and remove mistakes promptly; removals reach this repo on the next daily sync.
 
 ## License
 
