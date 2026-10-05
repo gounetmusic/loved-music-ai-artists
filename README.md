@@ -4,7 +4,7 @@ Spotify artist profiles that the [loved.music](https://loved.music) team (Vernon
 
 This is the team's assessment, not a ruling: we can be wrong, and an entry can be [contested](#contest-an-entry).
 
-**<!-- count -->258<!-- /count --> artists**, identified by Spotify artist id. Updated daily from [loved.music/ai-artists.json](https://loved.music/ai-artists.json).
+**<!-- count -->264<!-- /count --> artists**, identified by Spotify artist id. Updated daily from [loved.music/ai-artists.json](https://loved.music/ai-artists.json).
 
 ## Files
 

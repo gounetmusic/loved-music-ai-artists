@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 258,
+  "count": 264,
   "artists": [
     {
       "name": "[DanMixCamps]",
@@ -2134,6 +2134,31 @@
       ]
     },
     {
+      "name": "Ferginal",
+      "spotify": {
+        "artistId": "50BIkONxqEtxTJRz8pcxRQ",
+        "artistUri": "spotify:artist:50BIkONxqEtxTJRz8pcxRQ",
+        "artistUrl": "https://open.spotify.com/artist/50BIkONxqEtxTJRz8pcxRQ"
+      },
+      "verifiedAt": "2026-10-04T14:10:06.291Z",
+      "tracks": [
+        {
+          "title": "Linea Azul",
+          "isrc": "QT9XG2678757",
+          "releaseDate": "2026-09-11",
+          "popularity": 20,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27308ae5f835959845fc53e69da",
+          "spotify": {
+            "trackUri": "spotify:track:7sxJUo4GyE7k39Yp9PtNVw",
+            "trackUrl": "https://open.spotify.com/track/7sxJUo4GyE7k39Yp9PtNVw",
+            "albumUri": "spotify:album:649vjGUahgIoG0NlZ0Steg",
+            "albumUrl": "https://open.spotify.com/album/649vjGUahgIoG0NlZ0Steg",
+            "albumName": "Linea Azul"
+          }
+        }
+      ]
+    },
+    {
       "name": "Fiete Ludecke",
       "spotify": {
         "artistId": "1XF1VYo2XaoRiB2hx0PfDe",
@@ -2585,6 +2610,31 @@
             "albumUri": "spotify:album:3N7WY9vOQJLsPQZOTOpl9i",
             "albumUrl": "https://open.spotify.com/album/3N7WY9vOQJLsPQZOTOpl9i",
             "albumName": "GLITCH"
+          }
+        }
+      ]
+    },
+    {
+      "name": "hushin",
+      "spotify": {
+        "artistId": "4WDJzE3w5qHoZg8VRbmGYH",
+        "artistUri": "spotify:artist:4WDJzE3w5qHoZg8VRbmGYH",
+        "artistUrl": "https://open.spotify.com/artist/4WDJzE3w5qHoZg8VRbmGYH"
+      },
+      "verifiedAt": "2026-10-04T14:12:18.728Z",
+      "tracks": [
+        {
+          "title": "No Turning Back - slowed",
+          "isrc": "QT9XG2619424",
+          "releaseDate": "2026-09-10",
+          "popularity": 12,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a687dc259e138cb3b14f6654",
+          "spotify": {
+            "trackUri": "spotify:track:3ETWrCiLMuFmQhB8scTbfd",
+            "trackUrl": "https://open.spotify.com/track/3ETWrCiLMuFmQhB8scTbfd",
+            "albumUri": "spotify:album:3RlCAyU7OHqms2SHb11RGa",
+            "albumUrl": "https://open.spotify.com/album/3RlCAyU7OHqms2SHb11RGa",
+            "albumName": "No Turning Back"
           }
         }
       ]
@@ -5576,6 +5626,31 @@
       ]
     },
     {
+      "name": "RENYIX",
+      "spotify": {
+        "artistId": "4DNFh49AlQH0vP80PC93qh",
+        "artistUri": "spotify:artist:4DNFh49AlQH0vP80PC93qh",
+        "artistUrl": "https://open.spotify.com/artist/4DNFh49AlQH0vP80PC93qh"
+      },
+      "verifiedAt": "2026-10-04T13:57:38.277Z",
+      "tracks": [
+        {
+          "title": "HARDBBX",
+          "isrc": "QT6HV2643657",
+          "releaseDate": "2026-08-28",
+          "popularity": 19,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738a9a358203bd4d8174b3eace",
+          "spotify": {
+            "trackUri": "spotify:track:56KsjsfVXpU24XQWHiMKv9",
+            "trackUrl": "https://open.spotify.com/track/56KsjsfVXpU24XQWHiMKv9",
+            "albumUri": "spotify:album:4AbDL5WahDwY1fCAZixvre",
+            "albumUrl": "https://open.spotify.com/album/4AbDL5WahDwY1fCAZixvre",
+            "albumName": "HARDBBX"
+          }
+        }
+      ]
+    },
+    {
       "name": "REZQ",
       "spotify": {
         "artistId": "30joQL2OVrl8QCJEobpCw8",
@@ -5849,6 +5924,31 @@
             "albumUri": "spotify:album:7Dk2J4K1LfLT5jRQm8A5Au",
             "albumUrl": "https://open.spotify.com/album/7Dk2J4K1LfLT5jRQm8A5Au",
             "albumName": "I really need making music for saving myself"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sally gijn",
+      "spotify": {
+        "artistId": "0mDJiX4DBAE50jEIVPV7jw",
+        "artistUri": "spotify:artist:0mDJiX4DBAE50jEIVPV7jw",
+        "artistUrl": "https://open.spotify.com/artist/0mDJiX4DBAE50jEIVPV7jw"
+      },
+      "verifiedAt": "2026-10-04T13:48:59.179Z",
+      "tracks": [
+        {
+          "title": "brisa",
+          "isrc": "SE6XW2685536",
+          "releaseDate": "2026-08-31",
+          "popularity": 19,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273037c8711714cd9dd03885230",
+          "spotify": {
+            "trackUri": "spotify:track:0gLmw0Lqdzsh2jUOLfSEly",
+            "trackUrl": "https://open.spotify.com/track/0gLmw0Lqdzsh2jUOLfSEly",
+            "albumUri": "spotify:album:5K1eEgcwDveAp3UGmY8jSP",
+            "albumUrl": "https://open.spotify.com/album/5K1eEgcwDveAp3UGmY8jSP",
+            "albumName": "brisa"
           }
         }
       ]
@@ -6924,6 +7024,31 @@
       ]
     },
     {
+      "name": "Yael Saito",
+      "spotify": {
+        "artistId": "06WUR8UB1GAFK89CkCF0mK",
+        "artistUri": "spotify:artist:06WUR8UB1GAFK89CkCF0mK",
+        "artistUrl": "https://open.spotify.com/artist/06WUR8UB1GAFK89CkCF0mK"
+      },
+      "verifiedAt": "2026-10-04T14:00:27.534Z",
+      "tracks": [
+        {
+          "title": "Afro Club Tool",
+          "isrc": "GXLF42621233",
+          "releaseDate": "2026-08-21",
+          "popularity": 19,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe03480692807fab490035e0",
+          "spotify": {
+            "trackUri": "spotify:track:43IId0IgS3eBQII8iL39Lb",
+            "trackUrl": "https://open.spotify.com/track/43IId0IgS3eBQII8iL39Lb",
+            "albumUri": "spotify:album:5ODNCZuNsY2IzQ22ULCC1T",
+            "albumUrl": "https://open.spotify.com/album/5ODNCZuNsY2IzQ22ULCC1T",
+            "albumName": "Velocity"
+          }
+        }
+      ]
+    },
+    {
       "name": "YALUMIS",
       "spotify": {
         "artistId": "7pKSTDmmOvfOA456JD9LPq",
@@ -6944,6 +7069,31 @@
             "albumUri": "spotify:album:2ijJrF1fOXYEYKletpxsRt",
             "albumUrl": "https://open.spotify.com/album/2ijJrF1fOXYEYKletpxsRt",
             "albumName": "POWER GIRLS"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yanakonda",
+      "spotify": {
+        "artistId": "20z6FW5hQOdN495l35sKOc",
+        "artistUri": "spotify:artist:20z6FW5hQOdN495l35sKOc",
+        "artistUrl": "https://open.spotify.com/artist/20z6FW5hQOdN495l35sKOc"
+      },
+      "verifiedAt": "2026-10-04T13:58:41.085Z",
+      "tracks": [
+        {
+          "title": "Between the seconds",
+          "isrc": "QT6HT2666807",
+          "releaseDate": "2026-08-26",
+          "popularity": 17,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eefc7296dd77ff370b86ddd2",
+          "spotify": {
+            "trackUri": "spotify:track:4uM5c04znjAH83cRjbqudg",
+            "trackUrl": "https://open.spotify.com/track/4uM5c04znjAH83cRjbqudg",
+            "albumUri": "spotify:album:2lVh4QwTMLfwoQEmnPoSCJ",
+            "albumUrl": "https://open.spotify.com/album/2lVh4QwTMLfwoQEmnPoSCJ",
+            "albumName": "Between the seconds"
           }
         }
       ]
