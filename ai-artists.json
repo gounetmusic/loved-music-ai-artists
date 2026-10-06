@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 264,
+  "count": 265,
   "artists": [
     {
       "name": "[DanMixCamps]",
@@ -4245,6 +4245,59 @@
             "albumUri": "spotify:album:7z0P97CvDUjFkVyXDcPtbg",
             "albumUrl": "https://open.spotify.com/album/7z0P97CvDUjFkVyXDcPtbg",
             "albumName": "Echoes of Tomorrow"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Midnight Darkwave",
+      "spotify": {
+        "artistId": "7hstEhHoQSwuaptpvaP37T",
+        "artistUri": "spotify:artist:7hstEhHoQSwuaptpvaP37T",
+        "artistUrl": "https://open.spotify.com/artist/7hstEhHoQSwuaptpvaP37T"
+      },
+      "verifiedAt": "2026-10-06T10:10:30.811Z",
+      "tracks": [
+        {
+          "title": "Now You Belong To Me",
+          "isrc": "QZTV32642241",
+          "releaseDate": "2026-08-21",
+          "popularity": 17,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738501abbb48a3e8b885b38491",
+          "spotify": {
+            "trackUri": "spotify:track:6e96QFepGBPE6tOMNSVLIa",
+            "trackUrl": "https://open.spotify.com/track/6e96QFepGBPE6tOMNSVLIa",
+            "albumUri": "spotify:album:0pmIUEzhPCIHZZprsSk8yW",
+            "albumUrl": "https://open.spotify.com/album/0pmIUEzhPCIHZZprsSk8yW",
+            "albumName": "BloodMoon"
+          }
+        },
+        {
+          "title": "Nevermore",
+          "isrc": "QZTRX2456120",
+          "releaseDate": "2022-05-04",
+          "popularity": 35,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734322d48573a7a16e34d3fc27",
+          "spotify": {
+            "trackUri": "spotify:track:4nARyqXNWoCZAhmkPgaXOk",
+            "trackUrl": "https://open.spotify.com/track/4nARyqXNWoCZAhmkPgaXOk",
+            "albumUri": "spotify:album:4RHJ3zjhAEeJ8prLBEwD2W",
+            "albumUrl": "https://open.spotify.com/album/4RHJ3zjhAEeJ8prLBEwD2W",
+            "albumName": "Yesteryears"
+          }
+        },
+        {
+          "title": "Sanguine of the Cemetery",
+          "isrc": "QZWDE2500031",
+          "releaseDate": "2022-03-11",
+          "popularity": 23,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2739e79cc93ef757786bd728f46",
+          "spotify": {
+            "trackUri": "spotify:track:6kjY0XLHdEU4EnrykrqyMj",
+            "trackUrl": "https://open.spotify.com/track/6kjY0XLHdEU4EnrykrqyMj",
+            "albumUri": "spotify:album:5KgdMco1Q5bQmJqQKuNbJQ",
+            "albumUrl": "https://open.spotify.com/album/5KgdMco1Q5bQmJqQKuNbJQ",
+            "albumName": "Vampiristic Darkwave"
           }
         }
       ]
