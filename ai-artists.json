@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 265,
+  "count": 266,
   "artists": [
     {
       "name": "[DanMixCamps]",
@@ -3831,6 +3831,31 @@
             "albumUri": "spotify:album:1myEk0MBBiiwCu1ch05aDX",
             "albumUrl": "https://open.spotify.com/album/1myEk0MBBiiwCu1ch05aDX",
             "albumName": "PASTILLAS"
+          }
+        }
+      ]
+    },
+    {
+      "name": "LITTLE SAMMY INC",
+      "spotify": {
+        "artistId": "6dNxhc6F6cMh9914tbzKZT",
+        "artistUri": "spotify:artist:6dNxhc6F6cMh9914tbzKZT",
+        "artistUrl": "https://open.spotify.com/artist/6dNxhc6F6cMh9914tbzKZT"
+      },
+      "verifiedAt": "2026-10-07T09:03:08.279Z",
+      "tracks": [
+        {
+          "title": "Spirit",
+          "isrc": "QT3PG2500725",
+          "releaseDate": "2022",
+          "popularity": 19,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27336fdb2b0bea09f929071f838",
+          "spotify": {
+            "trackUri": "spotify:track:0kJzSOlGzOATlHHFld7kpM",
+            "trackUrl": "https://open.spotify.com/track/0kJzSOlGzOATlHHFld7kpM",
+            "albumUri": "spotify:album:1rEEGK52gyYoH7c7HDsqx2",
+            "albumUrl": "https://open.spotify.com/album/1rEEGK52gyYoH7c7HDsqx2",
+            "albumName": "Spirit"
           }
         }
       ]
