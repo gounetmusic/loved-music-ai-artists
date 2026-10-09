@@ -4,8 +4,33 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 276,
+  "count": 290,
   "artists": [
+    {
+      "name": ".aali",
+      "spotify": {
+        "artistId": "6gDlembnYNk1HeUXOzC8m8",
+        "artistUri": "spotify:artist:6gDlembnYNk1HeUXOzC8m8",
+        "artistUrl": "https://open.spotify.com/artist/6gDlembnYNk1HeUXOzC8m8"
+      },
+      "verifiedAt": "2026-10-08T19:51:12.941Z",
+      "tracks": [
+        {
+          "title": "Invoke",
+          "isrc": null,
+          "releaseDate": "2023",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a1beacc533573cba648aa2e6",
+          "spotify": {
+            "trackUri": "spotify:track:1vqXwWEROkXvMhOR0nZRVY",
+            "trackUrl": "https://open.spotify.com/track/1vqXwWEROkXvMhOR0nZRVY",
+            "albumUri": "spotify:album:",
+            "albumUrl": null,
+            "albumName": "Invoke"
+          }
+        }
+      ]
+    },
     {
       "name": "[DanMixCamps]",
       "spotify": {
@@ -280,6 +305,45 @@
             "albumUri": "spotify:album:0tourqVVAOyOm0NlLCfUt7",
             "albumUrl": "https://open.spotify.com/album/0tourqVVAOyOm0NlLCfUt7",
             "albumName": "Twilight of the Shadow Goddess"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Antony Well",
+      "spotify": {
+        "artistId": "6JI3CXBRKUCmcOheyyeT9g",
+        "artistUri": "spotify:artist:6JI3CXBRKUCmcOheyyeT9g",
+        "artistUrl": "https://open.spotify.com/artist/6JI3CXBRKUCmcOheyyeT9g"
+      },
+      "verifiedAt": "2026-10-09T04:50:23.332Z",
+      "tracks": [
+        {
+          "title": "Gilding Ovation",
+          "isrc": "QZTV32677093",
+          "releaseDate": "2026-10-08",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735f312699b9801f03ceaab873",
+          "spotify": {
+            "trackUri": "spotify:track:0fIU0cggSwC6SDPSg4oaxa",
+            "trackUrl": "https://open.spotify.com/track/0fIU0cggSwC6SDPSg4oaxa",
+            "albumUri": "spotify:album:692NOJKAyBJBPTFdZKDVlU",
+            "albumUrl": "https://open.spotify.com/album/692NOJKAyBJBPTFdZKDVlU",
+            "albumName": "Dub Feelings, Vol. 2/4"
+          }
+        },
+        {
+          "title": "Zestful Seventh",
+          "isrc": "QZTV32677102",
+          "releaseDate": "2026-10-08",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735f312699b9801f03ceaab873",
+          "spotify": {
+            "trackUri": "spotify:track:4lQt2zf03kC9ejLjKsPLaL",
+            "trackUrl": "https://open.spotify.com/track/4lQt2zf03kC9ejLjKsPLaL",
+            "albumUri": "spotify:album:692NOJKAyBJBPTFdZKDVlU",
+            "albumUrl": "https://open.spotify.com/album/692NOJKAyBJBPTFdZKDVlU",
+            "albumName": "Dub Feelings, Vol. 2/4"
           }
         }
       ]
@@ -727,6 +791,31 @@
       ]
     },
     {
+      "name": "BOULAXTER",
+      "spotify": {
+        "artistId": "2P78uu2bLIydA9AlCuD2rC",
+        "artistUri": "spotify:artist:2P78uu2bLIydA9AlCuD2rC",
+        "artistUrl": "https://open.spotify.com/artist/2P78uu2bLIydA9AlCuD2rC"
+      },
+      "verifiedAt": "2026-10-08T14:01:33.776Z",
+      "tracks": [
+        {
+          "title": "HIDROGENO OSCURO",
+          "isrc": "QT62V2613143",
+          "releaseDate": "2026-07-06",
+          "popularity": 15,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738479ea029adee19af3148afa",
+          "spotify": {
+            "trackUri": "spotify:track:3leFT9zyeIXINyB8EUSZsl",
+            "trackUrl": "https://open.spotify.com/track/3leFT9zyeIXINyB8EUSZsl",
+            "albumUri": "spotify:album:5lhSxmiRyR2rzzOjMHzfKq",
+            "albumUrl": "https://open.spotify.com/album/5lhSxmiRyR2rzzOjMHzfKq",
+            "albumName": "BOULAXTER"
+          }
+        }
+      ]
+    },
+    {
       "name": "BriClintTomaHouseGroov",
       "spotify": {
         "artistId": "3V4vg9sZyReoKe3BnJoNGp",
@@ -772,6 +861,31 @@
             "albumUri": "spotify:album:0HDozekNpmWu1IupYOPfGV",
             "albumUrl": "https://open.spotify.com/album/0HDozekNpmWu1IupYOPfGV",
             "albumName": "Do You Remember September?"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chakra",
+      "spotify": {
+        "artistId": "1LZ3EGDVXY61m6o2gv3N1v",
+        "artistUri": "spotify:artist:1LZ3EGDVXY61m6o2gv3N1v",
+        "artistUrl": "https://open.spotify.com/artist/1LZ3EGDVXY61m6o2gv3N1v"
+      },
+      "verifiedAt": "2026-10-08T19:50:59.932Z",
+      "tracks": [
+        {
+          "title": "Flower Blossom",
+          "isrc": null,
+          "releaseDate": "2022",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730a1720773096fac8deda9226",
+          "spotify": {
+            "trackUri": "spotify:track:5j06SclW7UdYUvq7U8GQHg",
+            "trackUrl": "https://open.spotify.com/track/5j06SclW7UdYUvq7U8GQHg",
+            "albumUri": "spotify:album:",
+            "albumUrl": null,
+            "albumName": "Chakra Healing"
           }
         }
       ]
@@ -1161,6 +1275,31 @@
             "albumUri": "spotify:album:1g5bhvJ2n82Nm4ZpYzSj3z",
             "albumUrl": "https://open.spotify.com/album/1g5bhvJ2n82Nm4ZpYzSj3z",
             "albumName": "Give Me Release"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Derairaise",
+      "spotify": {
+        "artistId": "26sTJfmeF0Y4Qx5S7Vt5Cv",
+        "artistUri": "spotify:artist:26sTJfmeF0Y4Qx5S7Vt5Cv",
+        "artistUrl": "https://open.spotify.com/artist/26sTJfmeF0Y4Qx5S7Vt5Cv"
+      },
+      "verifiedAt": "2026-10-09T04:50:53.358Z",
+      "tracks": [
+        {
+          "title": "Sober",
+          "isrc": "QZHN52676844",
+          "releaseDate": "2026-02-09",
+          "popularity": 14,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c344f24b37029e77148e5e2e",
+          "spotify": {
+            "trackUri": "spotify:track:4Bzsur34KssuX6ZvrxMGp4",
+            "trackUrl": "https://open.spotify.com/track/4Bzsur34KssuX6ZvrxMGp4",
+            "albumUri": "spotify:album:2w8zOW8W4RHQRShZC0pTIz",
+            "albumUrl": "https://open.spotify.com/album/2w8zOW8W4RHQRShZC0pTIz",
+            "albumName": "Gran Premio"
           }
         }
       ]
@@ -1608,6 +1747,31 @@
       ]
     },
     {
+      "name": "DJ SCOSTUMATISSIMO",
+      "spotify": {
+        "artistId": "5TeCxZNBV3DHdiVV4WDrqI",
+        "artistUri": "spotify:artist:5TeCxZNBV3DHdiVV4WDrqI",
+        "artistUrl": "https://open.spotify.com/artist/5TeCxZNBV3DHdiVV4WDrqI"
+      },
+      "verifiedAt": "2026-10-08T13:59:09.953Z",
+      "tracks": [
+        {
+          "title": "MONSTER",
+          "isrc": "QZAKB2579567",
+          "releaseDate": "2026-08-25",
+          "popularity": 21,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eec4fcf0529076d7a35fb1d5",
+          "spotify": {
+            "trackUri": "spotify:track:5Xas9sVRJ22NEZ1DM7STOx",
+            "trackUrl": "https://open.spotify.com/track/5Xas9sVRJ22NEZ1DM7STOx",
+            "albumUri": "spotify:album:3ukkGXFUgG8qIwOwMW9Sov",
+            "albumUrl": "https://open.spotify.com/album/3ukkGXFUgG8qIwOwMW9Sov",
+            "albumName": "MONSTER"
+          }
+        }
+      ]
+    },
+    {
       "name": "DJ Solar GrooveEcho",
       "spotify": {
         "artistId": "3eXvLYMjqyLp8JIVF2ZE3v",
@@ -1742,6 +1906,73 @@
             "albumUri": "spotify:album:781VrgTEjcMAsznTF2to6Z",
             "albumUrl": "https://open.spotify.com/album/781VrgTEjcMAsznTF2to6Z",
             "albumName": "Analog Decay"
+          }
+        }
+      ]
+    },
+    {
+      "name": "DJLORA",
+      "spotify": {
+        "artistId": "3k5YX9VY8wHJZwTOXbWedv",
+        "artistUri": "spotify:artist:3k5YX9VY8wHJZwTOXbWedv",
+        "artistUrl": "https://open.spotify.com/artist/3k5YX9VY8wHJZwTOXbWedv"
+      },
+      "verifiedAt": "2026-10-09T04:55:03.903Z",
+      "tracks": [
+        {
+          "title": "Rift Control",
+          "isrc": "QT6HM2698217",
+          "releaseDate": "2026-08-19",
+          "popularity": 13,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736b25e911333a43d1aebe4989",
+          "spotify": {
+            "trackUri": "spotify:track:4Ztwfc8zLkFe5AMFv7ynEI",
+            "trackUrl": "https://open.spotify.com/track/4Ztwfc8zLkFe5AMFv7ynEI",
+            "albumUri": "spotify:album:4ZIkKZ0jSv22vH14Vxgc3D",
+            "albumUrl": "https://open.spotify.com/album/4ZIkKZ0jSv22vH14Vxgc3D",
+            "albumName": "Rift Control"
+          }
+        },
+        {
+          "title": "Nightfall Matrix",
+          "isrc": "QT6HJ2697341",
+          "releaseDate": "2026-08-15",
+          "popularity": 12,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734c4629fda04dccb41b2cbe4e",
+          "spotify": {
+            "trackUri": "spotify:track:4lGdYhZfaX6A5wxHOQ1wXF",
+            "trackUrl": "https://open.spotify.com/track/4lGdYhZfaX6A5wxHOQ1wXF",
+            "albumUri": "spotify:album:5IQCoWgUtpkSTqMyAoxyZk",
+            "albumUrl": "https://open.spotify.com/album/5IQCoWgUtpkSTqMyAoxyZk",
+            "albumName": "Nightfall Matrix"
+          }
+        },
+        {
+          "title": "Monolith Drift",
+          "isrc": "QT6HJ2610205",
+          "releaseDate": "2026-08-14",
+          "popularity": 12,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2733ff3b905070b5d2e95995085",
+          "spotify": {
+            "trackUri": "spotify:track:1czArXbqgZnkPo7Fs4Gmvw",
+            "trackUrl": "https://open.spotify.com/track/1czArXbqgZnkPo7Fs4Gmvw",
+            "albumUri": "spotify:album:0zpeFqfjuXdVVtA1a5s2hE",
+            "albumUrl": "https://open.spotify.com/album/0zpeFqfjuXdVVtA1a5s2hE",
+            "albumName": "Monolith Drift"
+          }
+        },
+        {
+          "title": "Hydraulic Night",
+          "isrc": "QT6G92621858",
+          "releaseDate": "2026-08-13",
+          "popularity": 13,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273bc73e8a5115d67da3ead4000",
+          "spotify": {
+            "trackUri": "spotify:track:4XGC2vu2uyKIZx9j75FUdg",
+            "trackUrl": "https://open.spotify.com/track/4XGC2vu2uyKIZx9j75FUdg",
+            "albumUri": "spotify:album:26h99W8cMdrwKXuKp0mCVv",
+            "albumUrl": "https://open.spotify.com/album/26h99W8cMdrwKXuKp0mCVv",
+            "albumName": "Hydraulic Night"
           }
         }
       ]
@@ -2198,6 +2429,56 @@
       ]
     },
     {
+      "name": "Elektra Voss",
+      "spotify": {
+        "artistId": "69nQkNQvni1Py9fghLMOI3",
+        "artistUri": "spotify:artist:69nQkNQvni1Py9fghLMOI3",
+        "artistUrl": "https://open.spotify.com/artist/69nQkNQvni1Py9fghLMOI3"
+      },
+      "verifiedAt": "2026-10-08T13:59:25.773Z",
+      "tracks": [
+        {
+          "title": "Dark Night",
+          "isrc": "US83Z2658455",
+          "releaseDate": "2026-09-03",
+          "popularity": 22,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ca75a2ca06ab404a1763d62d",
+          "spotify": {
+            "trackUri": "spotify:track:2MOOKkswjkJE0s64Opry91",
+            "trackUrl": "https://open.spotify.com/track/2MOOKkswjkJE0s64Opry91",
+            "albumUri": "spotify:album:52ZhWtEELeOHRxbFVdr6Dl",
+            "albumUrl": "https://open.spotify.com/album/52ZhWtEELeOHRxbFVdr6Dl",
+            "albumName": "Pulse Doctrine"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Equalateral",
+      "spotify": {
+        "artistId": "2m8pHI2GpJWgAH61zJc5iC",
+        "artistUri": "spotify:artist:2m8pHI2GpJWgAH61zJc5iC",
+        "artistUrl": "https://open.spotify.com/artist/2m8pHI2GpJWgAH61zJc5iC"
+      },
+      "verifiedAt": "2026-10-08T19:51:06.911Z",
+      "tracks": [
+        {
+          "title": "Don't Be Afraid",
+          "isrc": null,
+          "releaseDate": "2023",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27312c5fb4952d0888f1fdc48f6",
+          "spotify": {
+            "trackUri": "spotify:track:3H1G1XnHAmHpRW88i5nWYN",
+            "trackUrl": "https://open.spotify.com/track/3H1G1XnHAmHpRW88i5nWYN",
+            "albumUri": "spotify:album:",
+            "albumUrl": null,
+            "albumName": "Don't Be Afraid"
+          }
+        }
+      ]
+    },
+    {
       "name": "Ferginal",
       "spotify": {
         "artistId": "50BIkONxqEtxTJRz8pcxRQ",
@@ -2624,6 +2905,31 @@
             "albumUri": "spotify:album:5SjXOQZtEyumQFxNqZMMmM",
             "albumUrl": "https://open.spotify.com/album/5SjXOQZtEyumQFxNqZMMmM",
             "albumName": "Zenith of Serenity"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GUIDO RETTILE",
+      "spotify": {
+        "artistId": "0ry8ZWeHvoVGCElEqdxIPk",
+        "artistUri": "spotify:artist:0ry8ZWeHvoVGCElEqdxIPk",
+        "artistUrl": "https://open.spotify.com/artist/0ry8ZWeHvoVGCElEqdxIPk"
+      },
+      "verifiedAt": "2026-10-08T13:59:10.172Z",
+      "tracks": [
+        {
+          "title": "MONSTER",
+          "isrc": "QZAKB2579567",
+          "releaseDate": "2026-08-25",
+          "popularity": 21,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273eec4fcf0529076d7a35fb1d5",
+          "spotify": {
+            "trackUri": "spotify:track:5Xas9sVRJ22NEZ1DM7STOx",
+            "trackUrl": "https://open.spotify.com/track/5Xas9sVRJ22NEZ1DM7STOx",
+            "albumUri": "spotify:album:3ukkGXFUgG8qIwOwMW9Sov",
+            "albumUrl": "https://open.spotify.com/album/3ukkGXFUgG8qIwOwMW9Sov",
+            "albumName": "MONSTER"
           }
         }
       ]
@@ -6263,6 +6569,56 @@
       ]
     },
     {
+      "name": "Sherlin Truner",
+      "spotify": {
+        "artistId": "2bQilOcidc47UjioPzdl6z",
+        "artistUri": "spotify:artist:2bQilOcidc47UjioPzdl6z",
+        "artistUrl": "https://open.spotify.com/artist/2bQilOcidc47UjioPzdl6z"
+      },
+      "verifiedAt": "2026-10-08T13:58:55.914Z",
+      "tracks": [
+        {
+          "title": "Voltage Humano",
+          "isrc": "QT62V2613152",
+          "releaseDate": "2026-07-20",
+          "popularity": 11,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2736984e0e8b089a32745785ad8",
+          "spotify": {
+            "trackUri": "spotify:track:1zpHng58rsGKtdsaIQ6SSG",
+            "trackUrl": "https://open.spotify.com/track/1zpHng58rsGKtdsaIQ6SSG",
+            "albumUri": "spotify:album:7LeDGfndsDJXNMsOg255RE",
+            "albumUrl": "https://open.spotify.com/album/7LeDGfndsDJXNMsOg255RE",
+            "albumName": "Electrous"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Simone Blake",
+      "spotify": {
+        "artistId": "3zxYnfEVidHxrRAA2qjoOV",
+        "artistUri": "spotify:artist:3zxYnfEVidHxrRAA2qjoOV",
+        "artistUrl": "https://open.spotify.com/artist/3zxYnfEVidHxrRAA2qjoOV"
+      },
+      "verifiedAt": "2026-10-09T05:03:02.080Z",
+      "tracks": [
+        {
+          "title": "Golden Hour Calls",
+          "isrc": "QT8QL2642984",
+          "releaseDate": "2026-09-12",
+          "popularity": 14,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734be770e9872d34e1bfee1533",
+          "spotify": {
+            "trackUri": "spotify:track:04cVn5areVywEjemqLrlyM",
+            "trackUrl": "https://open.spotify.com/track/04cVn5areVywEjemqLrlyM",
+            "albumUri": "spotify:album:1E2CxF7sj82pBprU0jwdiQ",
+            "albumUrl": "https://open.spotify.com/album/1E2CxF7sj82pBprU0jwdiQ",
+            "albumName": "Soft Life"
+          }
+        }
+      ]
+    },
+    {
       "name": "Singularidad electromagnetica",
       "spotify": {
         "artistId": "76WJHbK0qXEoBz1z6nnsag",
@@ -7222,6 +7578,31 @@
       ]
     },
     {
+      "name": "VØID MUSIC",
+      "spotify": {
+        "artistId": "2D7wt0oxMGLdOEhJJeEHk7",
+        "artistUri": "spotify:artist:2D7wt0oxMGLdOEhJJeEHk7",
+        "artistUrl": "https://open.spotify.com/artist/2D7wt0oxMGLdOEhJJeEHk7"
+      },
+      "verifiedAt": "2026-10-08T14:02:02.395Z",
+      "tracks": [
+        {
+          "title": "BAD TİME - TECHNO",
+          "isrc": "QT6J42614463",
+          "releaseDate": "2026-09-06",
+          "popularity": 14,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735bb17e678a74fd6e975cf913",
+          "spotify": {
+            "trackUri": "spotify:track:4sX31VTNMBFXDkn2HTwUz9",
+            "trackUrl": "https://open.spotify.com/track/4sX31VTNMBFXDkn2HTwUz9",
+            "albumUri": "spotify:album:6E6WmkKPyHCxXi0SD0gaWa",
+            "albumUrl": "https://open.spotify.com/album/6E6WmkKPyHCxXi0SD0gaWa",
+            "albumName": "BAD TİME - TECHNO"
+          }
+        }
+      ]
+    },
+    {
       "name": "VoltageWave IvoryGem,",
       "spotify": {
         "artistId": "4FFv9rgeBYxzThJNrio2VK",
@@ -7492,6 +7873,31 @@
             "albumUri": "spotify:album:4f6erY25R4YAGieLhZXs4E",
             "albumUrl": "https://open.spotify.com/album/4f6erY25R4YAGieLhZXs4E",
             "albumName": "Luxury Chill"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Yronel Brito",
+      "spotify": {
+        "artistId": "5injD7t5L1tIZLYN3l1Dwy",
+        "artistUri": "spotify:artist:5injD7t5L1tIZLYN3l1Dwy",
+        "artistUrl": "https://open.spotify.com/artist/5injD7t5L1tIZLYN3l1Dwy"
+      },
+      "verifiedAt": "2026-10-09T04:49:55.706Z",
+      "tracks": [
+        {
+          "title": "Engine of the Night",
+          "isrc": "QZDQH2647289",
+          "releaseDate": "2026-09-30",
+          "popularity": 16,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a954b6961b877a10e9268c47",
+          "spotify": {
+            "trackUri": "spotify:track:6u80CWtZpKaKx2equmLiF9",
+            "trackUrl": "https://open.spotify.com/track/6u80CWtZpKaKx2equmLiF9",
+            "albumUri": "spotify:album:7qjK9FzrkfspizFANscohb",
+            "albumUrl": "https://open.spotify.com/album/7qjK9FzrkfspizFANscohb",
+            "albumName": "Blackout"
           }
         }
       ]
