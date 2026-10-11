@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 290,
+  "count": 292,
   "artists": [
     {
       "name": ".aali",
@@ -4120,6 +4120,31 @@
       ]
     },
     {
+      "name": "Kovenor",
+      "spotify": {
+        "artistId": "1bn80Nrxs0kFEw2oVnklgX",
+        "artistUri": "spotify:artist:1bn80Nrxs0kFEw2oVnklgX",
+        "artistUrl": "https://open.spotify.com/artist/1bn80Nrxs0kFEw2oVnklgX"
+      },
+      "verifiedAt": "2026-10-11T10:15:45.663Z",
+      "tracks": [
+        {
+          "title": "Stay Where You Kneel",
+          "isrc": "QT6FP2688432",
+          "releaseDate": "2026-10-10",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2730b24cbc503ad5a2f3bebb478",
+          "spotify": {
+            "trackUri": "spotify:track:6BHIO8vTQyx4nSy0PzeTEP",
+            "trackUrl": "https://open.spotify.com/track/6BHIO8vTQyx4nSy0PzeTEP",
+            "albumUri": "spotify:album:20a7wtBQS2VisgKBIgLKCQ",
+            "albumUrl": "https://open.spotify.com/album/20a7wtBQS2VisgKBIgLKCQ",
+            "albumName": "Stay Where You Kneel"
+          }
+        }
+      ]
+    },
+    {
       "name": "KRYVOK TC",
       "spotify": {
         "artistId": "3rrjumfEQI0jZFP8ruEQCV",
@@ -6211,6 +6236,31 @@
             "albumUri": "spotify:album:5POV1rh8tZ8cu2GGpg4htx",
             "albumUrl": "https://open.spotify.com/album/5POV1rh8tZ8cu2GGpg4htx",
             "albumName": "Static heart"
+          }
+        }
+      ]
+    },
+    {
+      "name": "René Vei",
+      "spotify": {
+        "artistId": "7ySoRccdrHIpFbotSRVKiw",
+        "artistUri": "spotify:artist:7ySoRccdrHIpFbotSRVKiw",
+        "artistUrl": "https://open.spotify.com/artist/7ySoRccdrHIpFbotSRVKiw"
+      },
+      "verifiedAt": "2026-10-11T10:16:45.315Z",
+      "tracks": [
+        {
+          "title": "Wild, Wild In My Mind",
+          "isrc": "QTA7U2655828",
+          "releaseDate": "2026-10-10",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273518baa7a6536de6f03691e19",
+          "spotify": {
+            "trackUri": "spotify:track:5ap6vrAuh5yxydQAIZGDQe",
+            "trackUrl": "https://open.spotify.com/track/5ap6vrAuh5yxydQAIZGDQe",
+            "albumUri": "spotify:album:66aQq39HHF1O0PluZcBILG",
+            "albumUrl": "https://open.spotify.com/album/66aQq39HHF1O0PluZcBILG",
+            "albumName": "Wild, Wild In My Mind"
           }
         }
       ]
