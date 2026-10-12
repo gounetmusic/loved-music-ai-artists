@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 292,
+  "count": 305,
   "artists": [
     {
       "name": ".aali",
@@ -255,6 +255,31 @@
             "albumUri": "spotify:album:7JCc5EgYaPpk6psLLA6EKl",
             "albumUrl": "https://open.spotify.com/album/7JCc5EgYaPpk6psLLA6EKl",
             "albumName": "Doo"
+          }
+        }
+      ]
+    },
+    {
+      "name": "AlibenZ de laDance",
+      "spotify": {
+        "artistId": "0S78wW8WMrQiSJq0bhBEUS",
+        "artistUri": "spotify:artist:0S78wW8WMrQiSJq0bhBEUS",
+        "artistUrl": "https://open.spotify.com/artist/0S78wW8WMrQiSJq0bhBEUS"
+      },
+      "verifiedAt": "2026-10-12T07:02:09.003Z",
+      "tracks": [
+        {
+          "title": "Zapp 2AZ",
+          "isrc": "QZYHJ2687206",
+          "releaseDate": "2026-07-29",
+          "popularity": 17,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ea271c90a69f8b97752e8cca",
+          "spotify": {
+            "trackUri": "spotify:track:3e0V9YWaDuK0SD0RlIbrWC",
+            "trackUrl": "https://open.spotify.com/track/3e0V9YWaDuK0SD0RlIbrWC",
+            "albumUri": "spotify:album:7MtxQGFEGTy2epXt94H90N",
+            "albumUrl": "https://open.spotify.com/album/7MtxQGFEGTy2epXt94H90N",
+            "albumName": "Zapp 2AZ"
           }
         }
       ]
@@ -683,6 +708,31 @@
             "albumUri": "spotify:album:6oVM97pMtry5GcPjRTheTj",
             "albumUrl": "https://open.spotify.com/album/6oVM97pMtry5GcPjRTheTj",
             "albumName": "Ibiza Summer Drive"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ben Nestel",
+      "spotify": {
+        "artistId": "3S9sG8hIPmHkNF9lu80L7b",
+        "artistUri": "spotify:artist:3S9sG8hIPmHkNF9lu80L7b",
+        "artistUrl": "https://open.spotify.com/artist/3S9sG8hIPmHkNF9lu80L7b"
+      },
+      "verifiedAt": "2026-10-12T06:55:24.384Z",
+      "tracks": [
+        {
+          "title": "Broken Heart",
+          "isrc": "UKTUY2682314",
+          "releaseDate": "2026-10-11",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273cd1d52a283461ddfbb340dcb",
+          "spotify": {
+            "trackUri": "spotify:track:3I7iPIRSOgx0M79ZIFzrYP",
+            "trackUrl": "https://open.spotify.com/track/3I7iPIRSOgx0M79ZIFzrYP",
+            "albumUri": "spotify:album:5mSq9SVI9Nn9yuBi3a6dFa",
+            "albumUrl": "https://open.spotify.com/album/5mSq9SVI9Nn9yuBi3a6dFa",
+            "albumName": "Broken Heart"
           }
         }
       ]
@@ -3655,6 +3705,31 @@
       ]
     },
     {
+      "name": "Jph",
+      "spotify": {
+        "artistId": "1Jz1gowUGPZqj7UafI2le7",
+        "artistUri": "spotify:artist:1Jz1gowUGPZqj7UafI2le7",
+        "artistUrl": "https://open.spotify.com/artist/1Jz1gowUGPZqj7UafI2le7"
+      },
+      "verifiedAt": "2026-10-12T06:55:57.812Z",
+      "tracks": [
+        {
+          "title": "A Million Voices",
+          "isrc": "DEH742623049",
+          "releaseDate": "2026-10-11",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2737aa25a740caa27df19a7b227",
+          "spotify": {
+            "trackUri": "spotify:track:7JNcKQ0prdXStUyYhCcId9",
+            "trackUrl": "https://open.spotify.com/track/7JNcKQ0prdXStUyYhCcId9",
+            "albumUri": "spotify:album:4Ppgn9ag6qf8WUhBzTtOEd",
+            "albumUrl": "https://open.spotify.com/album/4Ppgn9ag6qf8WUhBzTtOEd",
+            "albumName": "A Million Voices"
+          }
+        }
+      ]
+    },
+    {
       "name": "Judgee",
       "spotify": {
         "artistId": "7DncdWJ1uatbne1pNgKtzw",
@@ -4493,6 +4568,31 @@
             "albumUri": "spotify:album:320F5DGn8Is6yb0tCaTzII",
             "albumUrl": "https://open.spotify.com/album/320F5DGn8Is6yb0tCaTzII",
             "albumName": "RAW MECHANICS"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Manoj Paliwal",
+      "spotify": {
+        "artistId": "2WEuUHXtUKBuCLqbrX1TOH",
+        "artistUri": "spotify:artist:2WEuUHXtUKBuCLqbrX1TOH",
+        "artistUrl": "https://open.spotify.com/artist/2WEuUHXtUKBuCLqbrX1TOH"
+      },
+      "verifiedAt": "2026-10-12T07:01:04.816Z",
+      "tracks": [
+        {
+          "title": "Khawab",
+          "isrc": "INGE62620924",
+          "releaseDate": "2026-10-11",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27305dcb69a8217401c3325486d",
+          "spotify": {
+            "trackUri": "spotify:track:6LrB0iUBzbwiY5tFjzjtp8",
+            "trackUrl": "https://open.spotify.com/track/6LrB0iUBzbwiY5tFjzjtp8",
+            "albumUri": "spotify:album:6qsYrNJ3BDlOTsrledmPR7",
+            "albumUrl": "https://open.spotify.com/album/6qsYrNJ3BDlOTsrledmPR7",
+            "albumName": "Khawab"
           }
         }
       ]
@@ -5799,6 +5899,70 @@
       ]
     },
     {
+      "name": "Omckar Todaankar",
+      "spotify": {
+        "artistId": "0X3RDli3EsB3pmG4POt5Ak",
+        "artistUri": "spotify:artist:0X3RDli3EsB3pmG4POt5Ak",
+        "artistUrl": "https://open.spotify.com/artist/0X3RDli3EsB3pmG4POt5Ak"
+      },
+      "verifiedAt": "2026-10-12T06:58:03.139Z",
+      "tracks": [
+        {
+          "title": "Shri Ram Shri Swami Samarth (Hindi Version)",
+          "isrc": "INGE62620914",
+          "releaseDate": "2026-10-11",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273fe026e9a7c70030caf0a0da0",
+          "spotify": {
+            "trackUri": "spotify:track:0sswFcvT2kBVSHUwVOdLzH",
+            "trackUrl": "https://open.spotify.com/track/0sswFcvT2kBVSHUwVOdLzH",
+            "albumUri": "spotify:album:6OCt4s1yzLOg3SnuWgRMRV",
+            "albumUrl": "https://open.spotify.com/album/6OCt4s1yzLOg3SnuWgRMRV",
+            "albumName": "Shri Ram Shri Swami Samarth (Hindi Version)"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oookkki",
+      "spotify": {
+        "artistId": "0Lux48xuONBdqODz8Ar8Ky",
+        "artistUri": "spotify:artist:0Lux48xuONBdqODz8Ar8Ky",
+        "artistUrl": "https://open.spotify.com/artist/0Lux48xuONBdqODz8Ar8Ky"
+      },
+      "verifiedAt": "2026-10-12T07:45:19.672Z",
+      "tracks": [
+        {
+          "title": "Oookkki_ me",
+          "isrc": "NGB5S2605823",
+          "releaseDate": "2026-09-25",
+          "popularity": 18,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27373feee899bb866f441a24cfa",
+          "spotify": {
+            "trackUri": "spotify:track:2ikrlx9rBRWaP2Qo6WOSKh",
+            "trackUrl": "https://open.spotify.com/track/2ikrlx9rBRWaP2Qo6WOSKh",
+            "albumUri": "spotify:album:4Be76SfeBSde6jUNTHry2U",
+            "albumUrl": "https://open.spotify.com/album/4Be76SfeBSde6jUNTHry2U",
+            "albumName": "Well"
+          }
+        },
+        {
+          "title": "Oookkki_ really",
+          "isrc": "NGB5S2605822",
+          "releaseDate": "2026-09-25",
+          "popularity": 23,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27373feee899bb866f441a24cfa",
+          "spotify": {
+            "trackUri": "spotify:track:7zNoPtcaInEfQx7b6yrZh6",
+            "trackUrl": "https://open.spotify.com/track/7zNoPtcaInEfQx7b6yrZh6",
+            "albumUri": "spotify:album:4Be76SfeBSde6jUNTHry2U",
+            "albumUrl": "https://open.spotify.com/album/4Be76SfeBSde6jUNTHry2U",
+            "albumName": "Well"
+          }
+        }
+      ]
+    },
+    {
       "name": "Organic Housemates",
       "spotify": {
         "artistId": "2J81iUhPWwvZcgfIKZ467Z",
@@ -6077,6 +6241,31 @@
       ]
     },
     {
+      "name": "Power Bottom",
+      "spotify": {
+        "artistId": "6dTJyHRJTdViZSQPsdZ7nz",
+        "artistUri": "spotify:artist:6dTJyHRJTdViZSQPsdZ7nz",
+        "artistUrl": "https://open.spotify.com/artist/6dTJyHRJTdViZSQPsdZ7nz"
+      },
+      "verifiedAt": "2026-10-12T07:00:35.814Z",
+      "tracks": [
+        {
+          "title": "Horse Feed",
+          "isrc": "QZRP42691947",
+          "releaseDate": "2026-03-26",
+          "popularity": 12,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273c738ff5c09ba8b378a7bed6b",
+          "spotify": {
+            "trackUri": "spotify:track:48T5fZ5JmROOZ7gf0MWv4E",
+            "trackUrl": "https://open.spotify.com/track/48T5fZ5JmROOZ7gf0MWv4E",
+            "albumUri": "spotify:album:67Uvevo5TG0xfT45WhqALe",
+            "albumUrl": "https://open.spotify.com/album/67Uvevo5TG0xfT45WhqALe",
+            "albumName": "Horse Feed"
+          }
+        }
+      ]
+    },
+    {
       "name": "PUMARULAR",
       "spotify": {
         "artistId": "5sVtg62momK6sBl7rbDoaw",
@@ -6316,6 +6505,31 @@
       ]
     },
     {
+      "name": "Riquezza",
+      "spotify": {
+        "artistId": "42oIbDVmKXqeO6JaAwa2L6",
+        "artistUri": "spotify:artist:42oIbDVmKXqeO6JaAwa2L6",
+        "artistUrl": "https://open.spotify.com/artist/42oIbDVmKXqeO6JaAwa2L6"
+      },
+      "verifiedAt": "2026-10-12T06:55:07.495Z",
+      "tracks": [
+        {
+          "title": "Diaba",
+          "isrc": "ITS582601701",
+          "releaseDate": "2026-10-11",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273a1b0cfe4fec714d2fbe09242",
+          "spotify": {
+            "trackUri": "spotify:track:7wDsxkcPxwX8xI5WU6HtYB",
+            "trackUrl": "https://open.spotify.com/track/7wDsxkcPxwX8xI5WU6HtYB",
+            "albumUri": "spotify:album:2jxMkSFZ80JWfY3Ua9LW8x",
+            "albumUrl": "https://open.spotify.com/album/2jxMkSFZ80JWfY3Ua9LW8x",
+            "albumName": "Diaba (Dj Fabio Flow Remix)"
+          }
+        }
+      ]
+    },
+    {
       "name": "Ristek foam",
       "spotify": {
         "artistId": "4jmlxamDoyBifuTx1CPQau",
@@ -6411,6 +6625,45 @@
             "albumUri": "spotify:album:0f9X4KTMjSnVAPjNOGWa8l",
             "albumUrl": "https://open.spotify.com/album/0f9X4KTMjSnVAPjNOGWa8l",
             "albumName": "Neon Twilight Beats"
+          }
+        }
+      ]
+    },
+    {
+      "name": "RUE BRASS",
+      "spotify": {
+        "artistId": "7q8QUTlV9aJ5HUrnwHbLnQ",
+        "artistUri": "spotify:artist:7q8QUTlV9aJ5HUrnwHbLnQ",
+        "artistUrl": "https://open.spotify.com/artist/7q8QUTlV9aJ5HUrnwHbLnQ"
+      },
+      "verifiedAt": "2026-10-12T08:36:28.920Z",
+      "tracks": [
+        {
+          "title": "Back to That Summer",
+          "isrc": "QT89Q2686573",
+          "releaseDate": "2026-09-20",
+          "popularity": 17,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273755094eabdc6c4f56e23e118",
+          "spotify": {
+            "trackUri": "spotify:track:4X00Kb2ZGXEZPxdarCdhNU",
+            "trackUrl": "https://open.spotify.com/track/4X00Kb2ZGXEZPxdarCdhNU",
+            "albumUri": "spotify:album:34XWZkEXyMs39GNtzGr8vK",
+            "albumUrl": "https://open.spotify.com/album/34XWZkEXyMs39GNtzGr8vK",
+            "albumName": "The past never passes"
+          }
+        },
+        {
+          "title": "Ghosts in My Room",
+          "isrc": "QT89Q2686567",
+          "releaseDate": "2026-09-20",
+          "popularity": 19,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273755094eabdc6c4f56e23e118",
+          "spotify": {
+            "trackUri": "spotify:track:3wfu5mUORFBobSI9dfZBNj",
+            "trackUrl": "https://open.spotify.com/track/3wfu5mUORFBobSI9dfZBNj",
+            "albumUri": "spotify:album:34XWZkEXyMs39GNtzGr8vK",
+            "albumUrl": "https://open.spotify.com/album/34XWZkEXyMs39GNtzGr8vK",
+            "albumName": "The past never passes"
           }
         }
       ]
@@ -6619,6 +6872,31 @@
       ]
     },
     {
+      "name": "Saurav Valvi",
+      "spotify": {
+        "artistId": "47hXeJwyUN1kf72XTsQJgs",
+        "artistUri": "spotify:artist:47hXeJwyUN1kf72XTsQJgs",
+        "artistUrl": "https://open.spotify.com/artist/47hXeJwyUN1kf72XTsQJgs"
+      },
+      "verifiedAt": "2026-10-12T06:58:21.840Z",
+      "tracks": [
+        {
+          "title": "QissA",
+          "isrc": "INGE62621079",
+          "releaseDate": "2026-10-11",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273ef5e2c07ddcd1bce91a9afa1",
+          "spotify": {
+            "trackUri": "spotify:track:6cXUnB66LeKAK5rkGiVxZR",
+            "trackUrl": "https://open.spotify.com/track/6cXUnB66LeKAK5rkGiVxZR",
+            "albumUri": "spotify:album:4rLKz2N2VSXwj8goXdgRFo",
+            "albumUrl": "https://open.spotify.com/album/4rLKz2N2VSXwj8goXdgRFo",
+            "albumName": "QissA"
+          }
+        }
+      ]
+    },
+    {
       "name": "Sherlin Truner",
       "spotify": {
         "artistId": "2bQilOcidc47UjioPzdl6z",
@@ -6739,6 +7017,31 @@
             "albumUri": "spotify:album:2OjCztXTgKaL43Z7ApCuP7",
             "albumUrl": "https://open.spotify.com/album/2OjCztXTgKaL43Z7ApCuP7",
             "albumName": "Her Name Was Static"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Son!A-LCM",
+      "spotify": {
+        "artistId": "4cl4gX838Ah1jXc2elVctx",
+        "artistUri": "spotify:artist:4cl4gX838Ah1jXc2elVctx",
+        "artistUrl": "https://open.spotify.com/artist/4cl4gX838Ah1jXc2elVctx"
+      },
+      "verifiedAt": "2026-10-12T08:52:38.091Z",
+      "tracks": [
+        {
+          "title": "Pachamama",
+          "isrc": "QZDFP2225721",
+          "releaseDate": "2026-09-17",
+          "popularity": 26,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273db1153f2a5d8bb4898086bc0",
+          "spotify": {
+            "trackUri": "spotify:track:0LRxNPjNmn3SybyUY5uOEN",
+            "trackUrl": "https://open.spotify.com/track/0LRxNPjNmn3SybyUY5uOEN",
+            "albumUri": "spotify:album:5nmPYzWxCudEax2rp6V7qg",
+            "albumUrl": "https://open.spotify.com/album/5nmPYzWxCudEax2rp6V7qg",
+            "albumName": "Pachamama"
           }
         }
       ]
@@ -6903,6 +7206,31 @@
             "albumUri": "spotify:album:0paJ3XGrJtUfLjEjz2Q4p4",
             "albumUrl": "https://open.spotify.com/album/0paJ3XGrJtUfLjEjz2Q4p4",
             "albumName": "Kept My Eyes Wide Open"
+          }
+        }
+      ]
+    },
+    {
+      "name": "sunremo",
+      "spotify": {
+        "artistId": "0PifXQiTMFvQVmZRu3Skk5",
+        "artistUri": "spotify:artist:0PifXQiTMFvQVmZRu3Skk5",
+        "artistUrl": "https://open.spotify.com/artist/0PifXQiTMFvQVmZRu3Skk5"
+      },
+      "verifiedAt": "2026-10-12T08:44:27.922Z",
+      "tracks": [
+        {
+          "title": "NAPOLI SUONA",
+          "isrc": "ITDFW2600942",
+          "releaseDate": "2026-09-18",
+          "popularity": 15,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273dd4d7063b52481b4ee888641",
+          "spotify": {
+            "trackUri": "spotify:track:4hydQLXYgtB7j2L2H7kb7S",
+            "trackUrl": "https://open.spotify.com/track/4hydQLXYgtB7j2L2H7kb7S",
+            "albumUri": "spotify:album:23GEmMsNY8fO5nHaLRLerh",
+            "albumUrl": "https://open.spotify.com/album/23GEmMsNY8fO5nHaLRLerh",
+            "albumName": "NAPOLI FUNK"
           }
         }
       ]
@@ -8087,6 +8415,31 @@
             "albumUri": "spotify:album:4AXVdgzRua52ZCYF84Ee2N",
             "albumUrl": "https://open.spotify.com/album/4AXVdgzRua52ZCYF84Ee2N",
             "albumName": "Echo Dreams"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zambe Music",
+      "spotify": {
+        "artistId": "1Po1GGAIyQCyzUWoGHnA7E",
+        "artistUri": "spotify:artist:1Po1GGAIyQCyzUWoGHnA7E",
+        "artistUrl": "https://open.spotify.com/artist/1Po1GGAIyQCyzUWoGHnA7E"
+      },
+      "verifiedAt": "2026-10-12T06:54:49.596Z",
+      "tracks": [
+        {
+          "title": "Rhythm of the Light",
+          "isrc": "QT9XL2644252",
+          "releaseDate": "2026-10-11",
+          "popularity": 0,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735c42bf6f8ab56db90ea9c777",
+          "spotify": {
+            "trackUri": "spotify:track:4ndKiNFFKv8ZI6CaJDU2HO",
+            "trackUrl": "https://open.spotify.com/track/4ndKiNFFKv8ZI6CaJDU2HO",
+            "albumUri": "spotify:album:1UfcIZarF2H8d9l4vbgPUc",
+            "albumUrl": "https://open.spotify.com/album/1UfcIZarF2H8d9l4vbgPUc",
+            "albumName": "Rhythm of the Light"
           }
         }
       ]
