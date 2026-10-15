@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 332,
+  "count": 335,
   "artists": [
     {
       "name": ".aali",
@@ -2111,6 +2111,31 @@
       ]
     },
     {
+      "name": "DjKendo",
+      "spotify": {
+        "artistId": "7oWhk70vR1XyFw3vV16M0h",
+        "artistUri": "spotify:artist:7oWhk70vR1XyFw3vV16M0h",
+        "artistUrl": "https://open.spotify.com/artist/7oWhk70vR1XyFw3vV16M0h"
+      },
+      "verifiedAt": "2026-10-14T16:15:35.399Z",
+      "tracks": [
+        {
+          "title": "Violet",
+          "isrc": "QT7G82601626",
+          "releaseDate": "2026-08-14",
+          "popularity": 19,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2738b702e7c0edc299a57960a29",
+          "spotify": {
+            "trackUri": "spotify:track:7KeEpB8LEubYfcvhAMfHa5",
+            "trackUrl": "https://open.spotify.com/track/7KeEpB8LEubYfcvhAMfHa5",
+            "albumUri": "spotify:album:34TB0LVjtkmNVmVyPeaT91",
+            "albumUrl": "https://open.spotify.com/album/34TB0LVjtkmNVmVyPeaT91",
+            "albumName": "Violet"
+          }
+        }
+      ]
+    },
+    {
       "name": "DJLORA",
       "spotify": {
         "artistId": "3k5YX9VY8wHJZwTOXbWedv",
@@ -4203,6 +4228,31 @@
             "albumUri": "spotify:album:5wTCHAKaEGfQMQjxWsnJ5Z",
             "albumUrl": "https://open.spotify.com/album/5wTCHAKaEGfQMQjxWsnJ5Z",
             "albumName": "Bassline Addiction"
+          }
+        }
+      ]
+    },
+    {
+      "name": "KEYLOFLOKY",
+      "spotify": {
+        "artistId": "69lwc837CMo3o0Irzi4zm4",
+        "artistUri": "spotify:artist:69lwc837CMo3o0Irzi4zm4",
+        "artistUrl": "https://open.spotify.com/artist/69lwc837CMo3o0Irzi4zm4"
+      },
+      "verifiedAt": "2026-10-14T16:13:59.108Z",
+      "tracks": [
+        {
+          "title": "OTRA ACTITUD",
+          "isrc": "QTA2R2667639",
+          "releaseDate": "2026-09-25",
+          "popularity": 17,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734700b410f3083b76b57e91b5",
+          "spotify": {
+            "trackUri": "spotify:track:2uxNQl8q5TWhISfiATTpGY",
+            "trackUrl": "https://open.spotify.com/track/2uxNQl8q5TWhISfiATTpGY",
+            "albumUri": "spotify:album:1ibooMaKnNdFP2K90RrwOf",
+            "albumUrl": "https://open.spotify.com/album/1ibooMaKnNdFP2K90RrwOf",
+            "albumName": "OTRA ACTITUD"
           }
         }
       ]
@@ -6778,6 +6828,31 @@
             "albumUri": "spotify:album:3Y8grJjGJB7Q1dAvrcue2j",
             "albumUrl": "https://open.spotify.com/album/3Y8grJjGJB7Q1dAvrcue2j",
             "albumName": "Timeless"
+          }
+        }
+      ]
+    },
+    {
+      "name": "PTM ALEX",
+      "spotify": {
+        "artistId": "7rDf9AgWPs6soFCQBtZfow",
+        "artistUri": "spotify:artist:7rDf9AgWPs6soFCQBtZfow",
+        "artistUrl": "https://open.spotify.com/artist/7rDf9AgWPs6soFCQBtZfow"
+      },
+      "verifiedAt": "2026-10-14T16:08:09.992Z",
+      "tracks": [
+        {
+          "title": "signature Type Beat",
+          "isrc": "QT62W2636559",
+          "releaseDate": "2026-08-05",
+          "popularity": 13,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b27361e787584a0b4fc6d6e1d341",
+          "spotify": {
+            "trackUri": "spotify:track:1Co11jH16Hzul3dGzemfYe",
+            "trackUrl": "https://open.spotify.com/track/1Co11jH16Hzul3dGzemfYe",
+            "albumUri": "spotify:album:0hIYtNyu6ZNr3cTbDIW54P",
+            "albumUrl": "https://open.spotify.com/album/0hIYtNyu6ZNr3cTbDIW54P",
+            "albumName": "To of fine"
           }
         }
       ]
