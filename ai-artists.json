@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 335,
+  "count": 339,
   "artists": [
     {
       "name": ".aali",
@@ -24,7 +24,7 @@
           "spotify": {
             "trackUri": "spotify:track:1vqXwWEROkXvMhOR0nZRVY",
             "trackUrl": "https://open.spotify.com/track/1vqXwWEROkXvMhOR0nZRVY",
-            "albumUri": "spotify:album:",
+            "albumUri": null,
             "albumUrl": null,
             "albumName": "Invoke"
           }
@@ -1008,7 +1008,7 @@
           "spotify": {
             "trackUri": "spotify:track:5j06SclW7UdYUvq7U8GQHg",
             "trackUrl": "https://open.spotify.com/track/5j06SclW7UdYUvq7U8GQHg",
-            "albumUri": "spotify:album:",
+            "albumUri": null,
             "albumUrl": null,
             "albumName": "Chakra Healing"
           }
@@ -2434,6 +2434,31 @@
       ]
     },
     {
+      "name": "Dubai Beach Club",
+      "spotify": {
+        "artistId": "3cLHyJDIPNIdkrC7FModbe",
+        "artistUri": "spotify:artist:3cLHyJDIPNIdkrC7FModbe",
+        "artistUrl": "https://open.spotify.com/artist/3cLHyJDIPNIdkrC7FModbe"
+      },
+      "verifiedAt": "2026-10-16T08:36:34.258Z",
+      "tracks": [
+        {
+          "title": "Rarest",
+          "isrc": "DE1QW2626500",
+          "releaseDate": "2026-05-15",
+          "popularity": 23,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273190a1f8dea85a2fead49b1a7",
+          "spotify": {
+            "trackUri": "spotify:track:2JfSBfb30RvFWOTeCyZlFh",
+            "trackUrl": "https://open.spotify.com/track/2JfSBfb30RvFWOTeCyZlFh",
+            "albumUri": "spotify:album:6zB7rPt6CmYKW8Db9PbMQD",
+            "albumUrl": "https://open.spotify.com/album/6zB7rPt6CmYKW8Db9PbMQD",
+            "albumName": "Desirable"
+          }
+        }
+      ]
+    },
+    {
       "name": "DXWILLX",
       "spotify": {
         "artistId": "1xZDYQGiMXYoB684gknnmC",
@@ -2746,7 +2771,7 @@
           "spotify": {
             "trackUri": "spotify:track:3H1G1XnHAmHpRW88i5nWYN",
             "trackUrl": "https://open.spotify.com/track/3H1G1XnHAmHpRW88i5nWYN",
-            "albumUri": "spotify:album:",
+            "albumUri": null,
             "albumUrl": null,
             "albumName": "Don't Be Afraid"
           }
@@ -2874,6 +2899,31 @@
             "albumUri": "spotify:album:5FWOTJVJIMUcByEpLHL5kW",
             "albumUrl": "https://open.spotify.com/album/5FWOTJVJIMUcByEpLHL5kW",
             "albumName": "Bid For Freedom"
+          }
+        }
+      ]
+    },
+    {
+      "name": "forquilla",
+      "spotify": {
+        "artistId": "5UdvUz9loULfiPqqtoqdsM",
+        "artistUri": "spotify:artist:5UdvUz9loULfiPqqtoqdsM",
+        "artistUrl": "https://open.spotify.com/artist/5UdvUz9loULfiPqqtoqdsM"
+      },
+      "verifiedAt": "2026-10-16T02:57:04.856Z",
+      "tracks": [
+        {
+          "title": "Infinity's Embrace",
+          "isrc": "GXJBL2602760",
+          "releaseDate": "2026-02-01",
+          "popularity": 12,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2735ec7930dbc4143466e205c62",
+          "spotify": {
+            "trackUri": "spotify:track:4GE7hfEEGvGXV8Gs3mcjZi",
+            "trackUrl": "https://open.spotify.com/track/4GE7hfEEGvGXV8Gs3mcjZi",
+            "albumUri": "spotify:album:4YignN6mt6R4AiGf63Sly2",
+            "albumUrl": "https://open.spotify.com/album/4YignN6mt6R4AiGf63Sly2",
+            "albumName": "Electric Pulse"
           }
         }
       ]
@@ -8384,6 +8434,31 @@
       ]
     },
     {
+      "name": "Tobi mert",
+      "spotify": {
+        "artistId": "79zpKA9tVdU0qVuF9W5XXt",
+        "artistUri": "spotify:artist:79zpKA9tVdU0qVuF9W5XXt",
+        "artistUrl": "https://open.spotify.com/artist/79zpKA9tVdU0qVuF9W5XXt"
+      },
+      "verifiedAt": "2026-10-16T03:08:42.589Z",
+      "tracks": [
+        {
+          "title": "Salta a mi papi",
+          "isrc": "QT9XF2677713",
+          "releaseDate": "2026-09-09",
+          "popularity": 19,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b273f4ca84984698af04160f182e",
+          "spotify": {
+            "trackUri": "spotify:track:6652UbEQLkCWUffrrYfS6u",
+            "trackUrl": "https://open.spotify.com/track/6652UbEQLkCWUffrrYfS6u",
+            "albumUri": "spotify:album:0CGLioId0rFHEzYybZjacn",
+            "albumUrl": "https://open.spotify.com/album/0CGLioId0rFHEzYybZjacn",
+            "albumName": "Salta a mi papi"
+          }
+        }
+      ]
+    },
+    {
       "name": "Tommy Waveform",
       "spotify": {
         "artistId": "41wXwqnRHpf9y5MyfaS42Z",
@@ -8668,6 +8743,31 @@
             "albumUri": "spotify:album:4O34y1tkST0aO5IZNaWPue",
             "albumUrl": "https://open.spotify.com/album/4O34y1tkST0aO5IZNaWPue",
             "albumName": "The Museum of Things"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Virtual ray",
+      "spotify": {
+        "artistId": "0HRoELwq6nZL3gbgCXWY4s",
+        "artistUri": "spotify:artist:0HRoELwq6nZL3gbgCXWY4s",
+        "artistUrl": "https://open.spotify.com/artist/0HRoELwq6nZL3gbgCXWY4s"
+      },
+      "verifiedAt": "2026-10-16T06:25:41.074Z",
+      "tracks": [
+        {
+          "title": "Void",
+          "isrc": "QT6F72644790",
+          "releaseDate": "2026-07-15",
+          "popularity": 25,
+          "artworkUrl": "https://i.scdn.co/image/ab67616d0000b2734508c8a91d00d6a6d1a8d340",
+          "spotify": {
+            "trackUri": "spotify:track:74YKFKGZSL2UY2Od0BGwOa",
+            "trackUrl": "https://open.spotify.com/track/74YKFKGZSL2UY2Od0BGwOa",
+            "albumUri": "spotify:album:61NlxIyNs7y0I4PdIxp2If",
+            "albumUrl": "https://open.spotify.com/album/61NlxIyNs7y0I4PdIxp2If",
+            "albumName": "Void"
           }
         }
       ]
