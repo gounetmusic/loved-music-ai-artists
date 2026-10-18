@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 363,
+  "count": 364,
   "artists": [
     {
       "name": ".aali",
@@ -1425,6 +1425,31 @@
             "albumUri": "spotify:album:1w9lUFuXcY52mJlyzCJUCo",
             "albumUrl": "https://open.spotify.com/album/1w9lUFuXcY52mJlyzCJUCo",
             "albumName": "My Love"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dayaalon",
+      "spotify": {
+        "artistId": "5n9w89aFXWFnJE4g3wG9K8",
+        "artistUri": "spotify:artist:5n9w89aFXWFnJE4g3wG9K8",
+        "artistUrl": "https://open.spotify.com/artist/5n9w89aFXWFnJE4g3wG9K8"
+      },
+      "verifiedAt": "2026-10-18T02:37:53.859Z",
+      "tracks": [
+        {
+          "title": "Noor Barayad",
+          "isrc": "QMFME2601885",
+          "releaseDate": "2026-09-14",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273e5b3a761bed5baa577e944c5",
+          "spotify": {
+            "trackUri": "spotify:track:6K7o3amdTrc1IyJSfZ8so2",
+            "trackUrl": "https://open.spotify.com/track/6K7o3amdTrc1IyJSfZ8so2",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
           }
         }
       ]
