@@ -23,7 +23,8 @@ Names are not unique on Spotify, and many AI projects take the name of a real ar
 
 1. [Vernon](https://loved.music) digs new electronic music on Spotify. Candidate tracks are screened with the [SH Labs](https://shlabs.music) AI music detector.
 2. A person reviews every flagged artist by hand before listing it. The detector alone never lists anyone, and its scores are not published.
-3. Artists banned for other reasons (off-genre, etc.) are never listed.
+3. Each artist is verified by hand, or released on a record label verified by hand as an AI-music farm (with an ISRC prefix the label used when it was reviewed).
+4. Artists banned for other reasons (off-genre, etc.) are never listed.
 
 The git history shows every addition and removal, with its date.
 
