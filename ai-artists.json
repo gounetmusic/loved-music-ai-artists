@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 971,
+  "count": 976,
   "artists": [
     {
       "name": ".aali",
@@ -1027,6 +1027,31 @@
           "spotify": {
             "trackUri": "spotify:track:3GqDxOHEe3lVDzBF9cDnBL",
             "trackUrl": "https://open.spotify.com/track/3GqDxOHEe3lVDzBF9cDnBL",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anima Oud",
+      "spotify": {
+        "artistId": "20aLRHAUQAMwgjhHBiRPPC",
+        "artistUri": "spotify:artist:20aLRHAUQAMwgjhHBiRPPC",
+        "artistUrl": "https://open.spotify.com/artist/20aLRHAUQAMwgjhHBiRPPC"
+      },
+      "verifiedAt": "2026-10-29T23:01:08.031Z",
+      "tracks": [
+        {
+          "title": "Andalus",
+          "isrc": "AEA3C2630041",
+          "releaseDate": "2026-10-27",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2737cc7a02f437b472d87df2be1",
+          "spotify": {
+            "trackUri": "spotify:track:3JjOM7uHSuGReF9QgmOHFu",
+            "trackUrl": "https://open.spotify.com/track/3JjOM7uHSuGReF9QgmOHFu",
             "albumUri": null,
             "albumUrl": null,
             "albumName": null
@@ -14088,6 +14113,31 @@
       ]
     },
     {
+      "name": "Luna Calma",
+      "spotify": {
+        "artistId": "1VDYE8Fc9QFGzymPwaXcO3",
+        "artistUri": "spotify:artist:1VDYE8Fc9QFGzymPwaXcO3",
+        "artistUrl": "https://open.spotify.com/artist/1VDYE8Fc9QFGzymPwaXcO3"
+      },
+      "verifiedAt": "2026-10-29T23:01:07.291Z",
+      "tracks": [
+        {
+          "title": "Bamboo Groove",
+          "isrc": "AEA3C2620024",
+          "releaseDate": "2026-10-27",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273b4cbcb49694a429ba0eff7ca",
+          "spotify": {
+            "trackUri": "spotify:track:33uTdpo7KrcvCHvtVZwWsZ",
+            "trackUrl": "https://open.spotify.com/track/33uTdpo7KrcvCHvtVZwWsZ",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
       "name": "Lunar Shift",
       "spotify": {
         "artistId": "6S9bbkKJ10HxJAHYoZyt8F",
@@ -20526,6 +20576,31 @@
       ]
     },
     {
+      "name": "Sage Wind",
+      "spotify": {
+        "artistId": "3T9Ga7wMjpwjwXlaVA7Md5",
+        "artistUri": "spotify:artist:3T9Ga7wMjpwjwXlaVA7Md5",
+        "artistUrl": "https://open.spotify.com/artist/3T9Ga7wMjpwjwXlaVA7Md5"
+      },
+      "verifiedAt": "2026-10-29T23:01:07.291Z",
+      "tracks": [
+        {
+          "title": "Bamboo Groove",
+          "isrc": "AEA3C2620024",
+          "releaseDate": "2026-10-27",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273b4cbcb49694a429ba0eff7ca",
+          "spotify": {
+            "trackUri": "spotify:track:33uTdpo7KrcvCHvtVZwWsZ",
+            "trackUrl": "https://open.spotify.com/track/33uTdpo7KrcvCHvtVZwWsZ",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
       "name": "Saintsundere x Dr. Proof",
       "spotify": {
         "artistId": "1pIGBeTxTgeguPijBEd8Dn",
@@ -20571,6 +20646,31 @@
             "albumUri": "spotify:album:7Dk2J4K1LfLT5jRQm8A5Au",
             "albumUrl": "https://open.spotify.com/album/7Dk2J4K1LfLT5jRQm8A5Au",
             "albumName": "I really need making music for saving myself"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Salentum",
+      "spotify": {
+        "artistId": "0qaE4b5Prye3xPxg1w6EaQ",
+        "artistUri": "spotify:artist:0qaE4b5Prye3xPxg1w6EaQ",
+        "artistUrl": "https://open.spotify.com/artist/0qaE4b5Prye3xPxg1w6EaQ"
+      },
+      "verifiedAt": "2026-10-29T23:01:08.031Z",
+      "tracks": [
+        {
+          "title": "Andalus",
+          "isrc": "AEA3C2630041",
+          "releaseDate": "2026-10-27",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2737cc7a02f437b472d87df2be1",
+          "spotify": {
+            "trackUri": "spotify:track:3JjOM7uHSuGReF9QgmOHFu",
+            "trackUrl": "https://open.spotify.com/track/3JjOM7uHSuGReF9QgmOHFu",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
           }
         }
       ]
@@ -22955,6 +23055,31 @@
             "albumUri": "spotify:album:5yh2CUDHvC82SGSOTc7PeN",
             "albumUrl": "https://open.spotify.com/album/5yh2CUDHvC82SGSOTc7PeN",
             "albumName": "Sovietwave 67"
+          }
+        }
+      ]
+    },
+    {
+      "name": "The Essential Rob Dean",
+      "spotify": {
+        "artistId": "44quKKRywmKfvnVgi4ZYsL",
+        "artistUri": "spotify:artist:44quKKRywmKfvnVgi4ZYsL",
+        "artistUrl": "https://open.spotify.com/artist/44quKKRywmKfvnVgi4ZYsL"
+      },
+      "verifiedAt": "2026-10-29T23:00:20.964Z",
+      "tracks": [
+        {
+          "title": "Lean On Your Love",
+          "isrc": "QTA862639051",
+          "releaseDate": "2026-10-27",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2739b883ce7c45780887392282d",
+          "spotify": {
+            "trackUri": "spotify:track:5svWON84XPP2xrwg9Eivi7",
+            "trackUrl": "https://open.spotify.com/track/5svWON84XPP2xrwg9Eivi7",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
           }
         }
       ]
