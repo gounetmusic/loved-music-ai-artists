@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 1290,
+  "count": 1294,
   "artists": [
     {
       "name": ".aali",
@@ -1360,6 +1360,31 @@
       ]
     },
     {
+      "name": "Anick",
+      "spotify": {
+        "artistId": "5ToBJemPV2839ixVvP0I4a",
+        "artistUri": "spotify:artist:5ToBJemPV2839ixVvP0I4a",
+        "artistUrl": "https://open.spotify.com/artist/5ToBJemPV2839ixVvP0I4a"
+      },
+      "verifiedAt": "2026-11-08T19:49:46.500Z",
+      "tracks": [
+        {
+          "title": "Late Night",
+          "isrc": "QTAEY2671159",
+          "releaseDate": "2026-11-07",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273121c6815dfa8bf36f60f8601",
+          "spotify": {
+            "trackUri": "spotify:track:7LzOZB9Iyy4Ix228qYFru9",
+            "trackUrl": "https://open.spotify.com/track/7LzOZB9Iyy4Ix228qYFru9",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
       "name": "Anima Oud",
       "spotify": {
         "artistId": "20aLRHAUQAMwgjhHBiRPPC",
@@ -2008,6 +2033,31 @@
           "spotify": {
             "trackUri": "spotify:track:5V8UW1ZSeUzJRUDGtQ4jnF",
             "trackUrl": "https://open.spotify.com/track/5V8UW1ZSeUzJRUDGtQ4jnF",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Astral Dreamz",
+      "spotify": {
+        "artistId": "10DoGH1KY6O4Gsyq8O4Tm8",
+        "artistUri": "spotify:artist:10DoGH1KY6O4Gsyq8O4Tm8",
+        "artistUrl": "https://open.spotify.com/artist/10DoGH1KY6O4Gsyq8O4Tm8"
+      },
+      "verifiedAt": "2026-11-08T19:49:45.782Z",
+      "tracks": [
+        {
+          "title": "Orbit",
+          "isrc": "QTA832607300",
+          "releaseDate": "2026-11-07",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273c2bdd10d9af83f8319246f19",
+          "spotify": {
+            "trackUri": "spotify:track:5bWKw66WLKKTSsPihxASot",
+            "trackUrl": "https://open.spotify.com/track/5bWKw66WLKKTSsPihxASot",
             "albumUri": null,
             "albumUrl": null,
             "albumName": null
@@ -10271,6 +10321,31 @@
       ]
     },
     {
+      "name": "ELRO",
+      "spotify": {
+        "artistId": "7iFdyOjwDkJNptwGdPy14u",
+        "artistUri": "spotify:artist:7iFdyOjwDkJNptwGdPy14u",
+        "artistUrl": "https://open.spotify.com/artist/7iFdyOjwDkJNptwGdPy14u"
+      },
+      "verifiedAt": "2026-11-08T19:49:28.159Z",
+      "tracks": [
+        {
+          "title": "Aura",
+          "isrc": "BR3E02600027",
+          "releaseDate": "2026-11-07",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2735f3e9c8598dc29f87c12f76b",
+          "spotify": {
+            "trackUri": "spotify:track:4yLcwSDq3YjttvHgGWG9z0",
+            "trackUrl": "https://open.spotify.com/track/4yLcwSDq3YjttvHgGWG9z0",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
       "name": "ElTiTiNyc",
       "spotify": {
         "artistId": "4tpbQOXnssxnUhdHsC0uZn",
@@ -14135,6 +14210,31 @@
           "spotify": {
             "trackUri": "spotify:track:5QXe9YzbX6D3ttfDA3ujxY",
             "trackUrl": "https://open.spotify.com/track/5QXe9YzbX6D3ttfDA3ujxY",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "James Roxx Orchestra",
+      "spotify": {
+        "artistId": "2S8LmcJlrtham0ezZ0NLZB",
+        "artistUri": "spotify:artist:2S8LmcJlrtham0ezZ0NLZB",
+        "artistUrl": "https://open.spotify.com/artist/2S8LmcJlrtham0ezZ0NLZB"
+      },
+      "verifiedAt": "2026-11-08T19:49:12.227Z",
+      "tracks": [
+        {
+          "title": "Bullfrog Creek",
+          "isrc": "QTAEW2647029",
+          "releaseDate": "2026-11-07",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273f00546f281ad4e38bd3c3b4f",
+          "spotify": {
+            "trackUri": "spotify:track:1KMQaxMsWLhIEHoMfohiKa",
+            "trackUrl": "https://open.spotify.com/track/1KMQaxMsWLhIEHoMfohiKa",
             "albumUri": null,
             "albumUrl": null,
             "albumName": null
