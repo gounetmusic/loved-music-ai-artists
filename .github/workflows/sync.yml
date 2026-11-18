@@ -37,3 +37,19 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Sync from loved.music: ${count} artists"
           git push
+
+      # Hugging Face mirror (VernonLovedMusic/loved-music-ai-artists): skipped while the HF_TOKEN secret is not set.
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Mirror to Hugging Face
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then
+            echo "No HF_TOKEN secret: Hugging Face skipped."
+            exit 0
+          fi
+          pip install --quiet "huggingface_hub>=0.30,<2"
+          python scripts/hf_sync.py
