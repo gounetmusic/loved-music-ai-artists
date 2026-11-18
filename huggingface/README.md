@@ -14,7 +14,7 @@ tags:
 - tabular
 configs:
 - config_name: artists
-  data_files: "ai-artists.csv"
+  data_files: "ai-artists.jsonl"
   default: true
 - config_name: full
   data_files: "ai-artists.json"
@@ -35,11 +35,12 @@ This is the team's assessment, not a ruling: we can be wrong, and an entry can b
 
 | Subset | File | Content |
 |---|---|---|
-| `artists` (default) | `ai-artists.csv` | one row per artist: `artist` (name), `id` (Spotify artist id) |
+| `artists` (default) | `ai-artists.jsonl` | one line per artist: `artist` (name), `id` (Spotify artist id) |
 | `full` | `ai-artists.json` | the list as published on loved.music, with each artist's review date and tracks |
 
-`ai-artists.csv` has the same `artist,id` format as [CennoxX's SpotifyAiArtists.csv](https://github.com/CennoxX/spotify-ai-blocker),
-so blockers built on it can load this file as is.
+The same list is also here as `ai-artists.csv` (download it from the files), in the `artist,id` format of
+[CennoxX's SpotifyAiArtists.csv](https://github.com/CennoxX/spotify-ai-blocker), so blockers built on it can load
+it as is.
 
 Fields of each artist in `ai-artists.json` (`artists` array):
 
