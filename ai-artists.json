@@ -4,7 +4,7 @@
   "detection": "Candidates screened with the SH Labs AI music detector (shlabs.music), each reviewed by hand by Vernon before being listed.",
   "contact": "contact@loved.music",
   "contestation": "If you believe an entry is wrong, write to contact@loved.music; we review and remove mistakes promptly.",
-  "count": 1572,
+  "count": 1586,
   "artists": [
     {
       "name": ".aali",
@@ -2750,6 +2750,31 @@
       ]
     },
     {
+      "name": "Aura C",
+      "spotify": {
+        "artistId": "2BSHdxikOP4zo1tG2jUy8c",
+        "artistUri": "spotify:artist:2BSHdxikOP4zo1tG2jUy8c",
+        "artistUrl": "https://open.spotify.com/artist/2BSHdxikOP4zo1tG2jUy8c"
+      },
+      "verifiedAt": "2026-11-20T19:50:37.160Z",
+      "tracks": [
+        {
+          "title": "The Booth",
+          "isrc": "QTAF72646377",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273a85f502980629b53e900090e",
+          "spotify": {
+            "trackUri": "spotify:track:2nE2h7D0hswXpfvnH8XMXy",
+            "trackUrl": "https://open.spotify.com/track/2nE2h7D0hswXpfvnH8XMXy",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
       "name": "Aural Alchemy",
       "spotify": {
         "artistId": "7CHiXE2UIc8oal0jQ3NNpK",
@@ -2767,6 +2792,31 @@
           "spotify": {
             "trackUri": "spotify:track:2zrTAMSky3ImRaf9wAd6NI",
             "trackUrl": "https://open.spotify.com/track/2zrTAMSky3ImRaf9wAd6NI",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Auralia Music",
+      "spotify": {
+        "artistId": "6s18HLkSl4zQbdrIEJEIhK",
+        "artistUri": "spotify:artist:6s18HLkSl4zQbdrIEJEIhK",
+        "artistUrl": "https://open.spotify.com/artist/6s18HLkSl4zQbdrIEJEIhK"
+      },
+      "verifiedAt": "2026-11-20T19:56:18.822Z",
+      "tracks": [
+        {
+          "title": "Sharanam (Mahabharat Mantra Chapter 3)",
+          "isrc": "QT6G82603431",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b27364bfe5af5c2a9c7d53304d90",
+          "spotify": {
+            "trackUri": "spotify:track:78EeJoPucpnuUlBM9gjrnC",
+            "trackUrl": "https://open.spotify.com/track/78EeJoPucpnuUlBM9gjrnC",
             "albumUri": null,
             "albumUrl": null,
             "albumName": null
@@ -3417,6 +3467,31 @@
           "spotify": {
             "trackUri": "spotify:track:2mruv1QsWRCTYayjfb7SrT",
             "trackUrl": "https://open.spotify.com/track/2mruv1QsWRCTYayjfb7SrT",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "BatchGaming",
+      "spotify": {
+        "artistId": "1ntmqEgu0PNPzximmx9UAb",
+        "artistUri": "spotify:artist:1ntmqEgu0PNPzximmx9UAb",
+        "artistUrl": "https://open.spotify.com/artist/1ntmqEgu0PNPzximmx9UAb"
+      },
+      "verifiedAt": "2026-11-20T20:03:37.153Z",
+      "tracks": [
+        {
+          "title": "Tropical Afterglow",
+          "isrc": "QTA892694175",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2737b9957337f17c20fc1530117",
+          "spotify": {
+            "trackUri": "spotify:track:6g7raMlhTkqScoKo7lAZtX",
+            "trackUrl": "https://open.spotify.com/track/6g7raMlhTkqScoKo7lAZtX",
             "albumUri": null,
             "albumUrl": null,
             "albumName": null
@@ -12908,6 +12983,31 @@
       ]
     },
     {
+      "name": "Emperor International",
+      "spotify": {
+        "artistId": "2pFbZgGHc8WelfTAoEzkGP",
+        "artistUri": "spotify:artist:2pFbZgGHc8WelfTAoEzkGP",
+        "artistUrl": "https://open.spotify.com/artist/2pFbZgGHc8WelfTAoEzkGP"
+      },
+      "verifiedAt": "2026-11-21T10:33:59.822Z",
+      "tracks": [
+        {
+          "title": "I Want It 247",
+          "isrc": "UK2XM2611000",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273912f57fc07ae2dcc3bee5733",
+          "spotify": {
+            "trackUri": "spotify:track:3ycxDt1qcfYa781THXAYYH",
+            "trackUrl": "https://open.spotify.com/track/3ycxDt1qcfYa781THXAYYH",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
       "name": "Emytechno",
       "spotify": {
         "artistId": "4PPwOc37cxfrXlldMud7Dl",
@@ -13836,6 +13936,31 @@
       ]
     },
     {
+      "name": "FOXMANN",
+      "spotify": {
+        "artistId": "7BvdY1TMZn0HArSmVB25yI",
+        "artistUri": "spotify:artist:7BvdY1TMZn0HArSmVB25yI",
+        "artistUrl": "https://open.spotify.com/artist/7BvdY1TMZn0HArSmVB25yI"
+      },
+      "verifiedAt": "2026-11-20T19:56:18.189Z",
+      "tracks": [
+        {
+          "title": "Dance",
+          "isrc": "QTAEZ2668127",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2736789208e438eb8d9f1e27164",
+          "spotify": {
+            "trackUri": "spotify:track:74frMSZcsbF2cafidY08pX",
+            "trackUrl": "https://open.spotify.com/track/74frMSZcsbF2cafidY08pX",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
       "name": "FR3KVENT",
       "spotify": {
         "artistId": "13x6x4NxyUaAnogLNgbrFT",
@@ -14348,6 +14473,31 @@
             "albumUri": "spotify:album:6ncx6gdVZpNzvsGwTgTOwH",
             "albumUrl": "https://open.spotify.com/album/6ncx6gdVZpNzvsGwTgTOwH",
             "albumName": "Electric Moonbeam Dreamscape"
+          }
+        }
+      ]
+    },
+    {
+      "name": "galaxy discoball",
+      "spotify": {
+        "artistId": "5En3KF93orji3SdXZrIIjm",
+        "artistUri": "spotify:artist:5En3KF93orji3SdXZrIIjm",
+        "artistUrl": "https://open.spotify.com/artist/5En3KF93orji3SdXZrIIjm"
+      },
+      "verifiedAt": "2026-11-21T10:31:19.766Z",
+      "tracks": [
+        {
+          "title": "Disco Fire (Another track)",
+          "isrc": "QTAF82666028",
+          "releaseDate": "2026-11-19",
+          "popularity": 0,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2734e4163b5c613cb81aaffc5a9",
+          "spotify": {
+            "trackUri": "spotify:track:5XyfkS8tIsoDiLXRO9KLsS",
+            "trackUrl": "https://open.spotify.com/track/5XyfkS8tIsoDiLXRO9KLsS",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
           }
         }
       ]
@@ -16330,6 +16480,31 @@
             "albumUri": "spotify:album:3RlCAyU7OHqms2SHb11RGa",
             "albumUrl": "https://open.spotify.com/album/3RlCAyU7OHqms2SHb11RGa",
             "albumName": "No Turning Back"
+          }
+        }
+      ]
+    },
+    {
+      "name": "HVYCHKN",
+      "spotify": {
+        "artistId": "0OgWRDFWH02k4mRwrBaYBY",
+        "artistUri": "spotify:artist:0OgWRDFWH02k4mRwrBaYBY",
+        "artistUrl": "https://open.spotify.com/artist/0OgWRDFWH02k4mRwrBaYBY"
+      },
+      "verifiedAt": "2026-11-20T19:50:37.160Z",
+      "tracks": [
+        {
+          "title": "The Booth",
+          "isrc": "QTAF72646377",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273a85f502980629b53e900090e",
+          "spotify": {
+            "trackUri": "spotify:track:2nE2h7D0hswXpfvnH8XMXy",
+            "trackUrl": "https://open.spotify.com/track/2nE2h7D0hswXpfvnH8XMXy",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
           }
         }
       ]
@@ -19601,6 +19776,31 @@
           "spotify": {
             "trackUri": "spotify:track:01ihsUMiCLM3mYzIWrHC65",
             "trackUrl": "https://open.spotify.com/track/01ihsUMiCLM3mYzIWrHC65",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karl Ratsberger",
+      "spotify": {
+        "artistId": "4lPT73FyOjQKtOgIfQP4dj",
+        "artistUri": "spotify:artist:4lPT73FyOjQKtOgIfQP4dj",
+        "artistUrl": "https://open.spotify.com/artist/4lPT73FyOjQKtOgIfQP4dj"
+      },
+      "verifiedAt": "2026-11-20T19:46:40.080Z",
+      "tracks": [
+        {
+          "title": "Fist to a knifeparty - Radio Edit",
+          "isrc": "QTAF82688804",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273888e057c2abb2e4d184f9987",
+          "spotify": {
+            "trackUri": "spotify:track:34oVgVpVD1kL2XyvYWJ33B",
+            "trackUrl": "https://open.spotify.com/track/34oVgVpVD1kL2XyvYWJ33B",
             "albumUri": null,
             "albumUrl": null,
             "albumName": null
@@ -28860,6 +29060,31 @@
       ]
     },
     {
+      "name": "Paranormal Melody",
+      "spotify": {
+        "artistId": "5DyNgx6kudfBGZ1eSBOuMH",
+        "artistUri": "spotify:artist:5DyNgx6kudfBGZ1eSBOuMH",
+        "artistUrl": "https://open.spotify.com/artist/5DyNgx6kudfBGZ1eSBOuMH"
+      },
+      "verifiedAt": "2026-11-20T19:54:37.168Z",
+      "tracks": [
+        {
+          "title": "Real liberation",
+          "isrc": "QT4K32618652",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27332317aa9171fdf47b6bb0730",
+          "spotify": {
+            "trackUri": "spotify:track:67gLMbZ3WJvjC9CXrizTBH",
+            "trackUrl": "https://open.spotify.com/track/67gLMbZ3WJvjC9CXrizTBH",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
       "name": "Patri Barrie",
       "spotify": {
         "artistId": "2dZzGNgJKQ0so1co3GRMEG",
@@ -31942,6 +32167,31 @@
       ]
     },
     {
+      "name": "Roy Garza",
+      "spotify": {
+        "artistId": "3nd65IEHpFEEJC5eocrk88",
+        "artistUri": "spotify:artist:3nd65IEHpFEEJC5eocrk88",
+        "artistUrl": "https://open.spotify.com/artist/3nd65IEHpFEEJC5eocrk88"
+      },
+      "verifiedAt": "2026-11-20T19:59:24.688Z",
+      "tracks": [
+        {
+          "title": "TWISTED CIRCUS",
+          "isrc": "QTAF52690009",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27390089b6b0116a48cfbf78db6",
+          "spotify": {
+            "trackUri": "spotify:track:1kZ2TKCvpNQH90RtPQ1a43",
+            "trackUrl": "https://open.spotify.com/track/1kZ2TKCvpNQH90RtPQ1a43",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
       "name": "rrmiko",
       "spotify": {
         "artistId": "7JKhebIB2YafU9He2o1nlC",
@@ -32098,6 +32348,31 @@
           "spotify": {
             "trackUri": "spotify:track:28mE0UGDqttkpbVxTf6jMx",
             "trackUrl": "https://open.spotify.com/track/28mE0UGDqttkpbVxTf6jMx",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "RV Royal Voice",
+      "spotify": {
+        "artistId": "0NDNM9mvVliM0KlWBs2feM",
+        "artistUri": "spotify:artist:0NDNM9mvVliM0KlWBs2feM",
+        "artistUrl": "https://open.spotify.com/artist/0NDNM9mvVliM0KlWBs2feM"
+      },
+      "verifiedAt": "2026-11-20T19:44:30.244Z",
+      "tracks": [
+        {
+          "title": "Let Us Sing Again",
+          "isrc": "QTAF82690121",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2736237881bfc3885727301ecd3",
+          "spotify": {
+            "trackUri": "spotify:track:5prTfGEeLjid8063JytihG",
+            "trackUrl": "https://open.spotify.com/track/5prTfGEeLjid8063JytihG",
             "albumUri": null,
             "albumUrl": null,
             "albumName": null
@@ -32726,6 +33001,31 @@
           "spotify": {
             "trackUri": "spotify:track:4VPzHCgrPAT9LsqPDe8a1j",
             "trackUrl": "https://open.spotify.com/track/4VPzHCgrPAT9LsqPDe8a1j",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "SajferInI",
+      "spotify": {
+        "artistId": "5rkCkgVeW82o0d9Uw7yj3P",
+        "artistUri": "spotify:artist:5rkCkgVeW82o0d9Uw7yj3P",
+        "artistUrl": "https://open.spotify.com/artist/5rkCkgVeW82o0d9Uw7yj3P"
+      },
+      "verifiedAt": "2026-11-20T19:53:31.439Z",
+      "tracks": [
+        {
+          "title": "Forked Tongue",
+          "isrc": "QTAF82667262",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273906bd24b912a44caf99ce5b4",
+          "spotify": {
+            "trackUri": "spotify:track:4pxAyOG7sve7r4DjHaFgcE",
+            "trackUrl": "https://open.spotify.com/track/4pxAyOG7sve7r4DjHaFgcE",
             "albumUri": null,
             "albumUrl": null,
             "albumName": null
@@ -39059,6 +39359,31 @@
       ]
     },
     {
+      "name": "Vedanto_art",
+      "spotify": {
+        "artistId": "0xzB5uAbtP5VWj8i7ojye4",
+        "artistUri": "spotify:artist:0xzB5uAbtP5VWj8i7ojye4",
+        "artistUrl": "https://open.spotify.com/artist/0xzB5uAbtP5VWj8i7ojye4"
+      },
+      "verifiedAt": "2026-11-20T19:50:36.536Z",
+      "tracks": [
+        {
+          "title": "Add to Cart",
+          "isrc": "QTAF32605614",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27301e6b70f40c6dc308b8e6735",
+          "spotify": {
+            "trackUri": "spotify:track:2TkzjdxFPF0HB0WrmVugdq",
+            "trackUrl": "https://open.spotify.com/track/2TkzjdxFPF0HB0WrmVugdq",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
+          }
+        }
+      ]
+    },
+    {
       "name": "Vektrom",
       "spotify": {
         "artistId": "3HOupX8H4BGYSEkSsCZ9cz",
@@ -41753,6 +42078,31 @@
             "albumUri": "spotify:album:5670blKBBvmDYSD4maoGmh",
             "albumUrl": "https://open.spotify.com/album/5670blKBBvmDYSD4maoGmh",
             "albumName": "Ready for play"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Zerogivenguz",
+      "spotify": {
+        "artistId": "3OHQHvbswcXMCk0xLMqqoh",
+        "artistUri": "spotify:artist:3OHQHvbswcXMCk0xLMqqoh",
+        "artistUrl": "https://open.spotify.com/artist/3OHQHvbswcXMCk0xLMqqoh"
+      },
+      "verifiedAt": "2026-11-21T11:44:49.698Z",
+      "tracks": [
+        {
+          "title": "Where Did It Go?",
+          "isrc": "QTA822624854",
+          "releaseDate": "2026-11-19",
+          "popularity": 10,
+          "artworkUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273e12264b714c6f344dbff163d",
+          "spotify": {
+            "trackUri": "spotify:track:4w2ZcGJC3SeS9E2JOIMAt5",
+            "trackUrl": "https://open.spotify.com/track/4w2ZcGJC3SeS9E2JOIMAt5",
+            "albumUri": null,
+            "albumUrl": null,
+            "albumName": null
           }
         }
       ]
